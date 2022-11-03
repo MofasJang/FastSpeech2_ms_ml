@@ -12,7 +12,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # device = torch.device("cpu")
 
 language="zh-en"
-read="no"
+read="yes"
 multi_speaker=False
 if language=="zh":
     if multi_speaker:
