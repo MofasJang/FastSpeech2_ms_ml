@@ -1,0 +1,256 @@
+000195|baker|{h uan1 ing2 g e4 uei4 p eng2 iou5 ch ang2 l ai2 g uang4 g uang5 l iao2 l iao5}|huan1 ying2 ge4 wei4 peng2 you5 chang2 lai2 guang4 guang5 liao2 liao5
+005166|baker|{j in4 sh eng1 sh ang4 j iang4 j vn1 x ian2 d e5 uei4 f eng4 h e2 j vn1 r ong2 ian2 zh eng3 sp1 j ing1 sh en2 d ou2 s ou3 d e5 zh an4 z ai4 zh u3 x i2 t ai2 q ian2}|jin4 sheng1 shang4 jiang4 jun1 xian2 de5 wei4 feng4 he2 jun1 rong2 yan2 zheng3 jing1 shen2 dou2 sou3 de5 zhan4 zai4 zhu3 xi2 tai2 qian2
+009475|baker|{b en3 l ai2 q v4 t iao2 j ie3 j iou1 f en1 d e5 sp1 p eng4 q iao2 b a3 zh e4 m ing2 t ao2 f an4 j iou1 ch u1 l ai2 l e5}|ben3 lai2 qu4 tiao2 jie3 jiu1 fen1 de5 peng4 qiao2 ba3 zhe4 ming2 tao2 fan4 jiu1 chu1 lai2 le5
+000880|baker|{er2 j in4 l iang3 n ian2 sp1 zh e4 g u3 x van4 f eng1 sp1 ve4 g ua1 ve4 m eng3}|er2 jin4 liang3 nian2 zhe4 gu3 xuan4 feng1 yue4 gua1 yue4 meng3
+008506|baker|{j v4 x i1 sp1 sh iii4 d i1 x ve4 t ang2 d ao3 zh iii4 l e5 k ai3 x i1 c ii3 c ii4 t u1 r an2 vn1 d ao3}|ju4 xi1 shi4 di1 xue4 tang2 dao3 zhi4 le5 kai3 xi1 ci3 ci4 tu1 ran2 yun1 dao3
+001854|baker|{j v4 t a1 m iao2 sh u4 sp1 d ang1 sh iii2 h uen2 sh en1 t an1 r uan3 sp1 d uo1 d uo5 s uo1 s uo1 sp1 h ai4 p a4 sh en4 zh iii4 ia1 g uo5 f en4 n u4}|ju4 ta1 miao2 shu4 dang1 shi2 hun2 shen1 tan1 ruan3 duo1 duo5 suo1 suo1 hai4 pa4 shen4 zhi4 ya1 guo5 fen4 nu4
+005089|baker|{zh eng4 q van4 j ian3 ch eng1 uei2 h ang2 ch iii3 q ian2 j in4 sp1 zh eng4 q van4 d ai4 m a3 uei2 sp1 l iou4 l ing2 iao1 iao1 q i1 q i1}|zheng4 quan4 jian3 cheng1 wei2 hang2 chi3 qian2 jin4 zheng4 quan4 dai4 ma3 wei2 liu4 ling2 yao1 yao1 qi1 qi1
+007479|baker|{zh e4 sh iii4 zh ong1 g uo2 g uo2 j ia1 van2 sh ou3 sh ou3 c ii4 f ang2 m ei3}|zhe4 shi4 zhong1 guo2 guo2 jia1 yuan2 shou3 shou3 ci4 fang2 mei3
+005424|baker|{s uen1 h u3 b a2 l i3 q iang2 sh uo1 d e5 vn2 l i3 u4 l i3}|sun1 hu3 ba2 li3 qiang2 shuo1 de5 yun2 li3 wu4 li3
+002854|baker|{d an4 sh iii4 sp1 zh en1 b u4 zh iii1 d ao4 n v3 er2 d e5 k ang4 ia1 n eng2 l i4 iou3 d uo1 d a4 sp1 r en2 ian2 k e3 uei4 a5}|dan4 shi4 zhen1 bu4 zhi1 dao4 nv3 er2 de5 kang4 ya1 neng2 li4 you3 duo1 da4 ren2 yan2 ke3 wei4 a5
+008524|baker|{i4 zh iii2 i3 l ai2 sp1 r en2 m in2 b i4 d uei4 m ei3 van2 sh eng1 d uo1 b ian2 sh ao3}|yi4 zhi2 yi3 lai2 ren2 min2 bi4 dui4 mei3 yuan2 sheng1 duo1 bian2 shao3
+005873|baker|{c ii3 h ou4 sp1 j i2 t uan2 f a1 ian2 r en2 sp1 ie3 b ing4 uei4 p i1 l u4 j ian3 ch iii2 van2 in1}|ci3 hou4 ji2 tuan2 fa1 yan2 ren2 ye3 bing4 wei4 pi1 lu4 jian3 chi2 yuan2 yin1
+004952|baker|{l v3 m ing2 v4 ch eng2 uei2 uo2 sh eng3 d i4 i1 g e5 l iang3 c ii4 j van1 s uei3 j iou4 zh u4 t a1 r en2 d e5 zh iii4 van4 zh e3}|lv3 ming2 yu4 cheng2 wei2 wo2 sheng3 di4 yi1 ge5 liang3 ci4 juan1 sui3 jiu4 zhu4 ta1 ren2 de5 zhi4 yuan4 zhe3
+006802|baker|{x iou4 zh iii4 r iii4 q ian2 i4 p ian1 g uan1 v2 t a1 d e5 b ao4 d ao4 sp1 r e2 q i3 n ei4 d i4 uang3 m in2 b u4 m an3}|xiu4 zhi4 ri4 qian2 yi4 pian1 guan1 yu2 ta1 de5 bao4 dao4 re2 qi3 nei4 di4 wang3 min2 bu4 man3
+001903|baker|{ian3 zh e4 b u4 x i4 sp1 m ei3 t ian1 d ou1 v3 g uo1 uan3 p iao2 p en2 d a3 j iao1 d ao4}|yan3 zhe4 bu4 xi4 mei3 tian1 dou1 yu3 guo1 wan3 piao2 pen2 da3 jiao1 dao4
+005890|baker|{q i3 ie4 d e5 j ing1 ing2 c e4 l ve4 iou3 b ian4 h ua4 m a5}|qi3 ye4 de5 jing1 ying2 ce4 lve4 you3 bian4 hua4 ma5
+002402|baker|{s uo2 i3 sp1 c ong1 m ing5 d e5 in4 d u4 zh iii1 z ii3 sp1 q i4 j in1 ie3 m ei2 g an2 g ei2 m ei3 g uo2 z ong2 t ong3 f eng4 c ii3 z uen1 h ao4}|suo2 yi3 cong1 ming5 de5 yin4 du4 zhi1 zi3 qi4 jin1 ye3 mei2 gan2 gei2 mei3 guo2 zong2 tong3 feng4 ci3 zun1 hao4
+006653|baker|{zh ang1 v3 i4 l ian3 h ai4 x iou1 sp1 z ai4 q ing1 sh eng1 zh uei1 uen4 sp1 n a4 t a1 sh uo1 sh en2 m e5}|zhang1 yu3 yi4 lian3 hai4 xiu1 zai4 qing1 sheng1 zhui1 wen4 na4 ta1 shuo1 shen2 me5
+005926|baker|{zh e4 sh iii4 sh ang4 h ai2 iou2 b i3 zh e4 g eng4 n an2 ch iii1 d e5 c ai4 m e5}|zhe4 shi4 shang4 hai2 you2 bi3 zhe4 geng4 nan2 chi1 de5 cai4 me5
+009211|baker|{k e3 j ian4 sp1 h ao2 h ao3 x ve2 sh eng1 ie3 b u4 n eng2 iao4}|ke3 jian4 hao2 hao3 xue2 sheng1 ye3 bu4 neng2 yao4
+000159|baker|{q van2 g uo2 i2 g ong4 iou3 i4 b ai3 i1 sh iii2 er4 s uo3 er4 iao1 iao1 g ao1 x iao4}|quan2 guo2 yi2 gong4 you3 yi4 bai3 yi1 shi2 er4 suo3 er4 yao1 yao1 gao1 xiao4
+002984|baker|{d ie1 f u2 f ang1 m ian4 sp1 zh eng4 b ao2 van3 ch eng2 j iao4 v4 sp1 d ie1 b ai3 f en1 zh iii1 l iou4 d ian3 s an1 l iou4 sp1 j iou3 ch eng2 sp1 d ie1 b ai3 f en1 zh iii1 sp1 u2 d ian3 l ing2 l ing2}|die1 fu2 fang1 mian4 zheng4 bao2 yuan3 cheng2 jiao4 yu4 die1 bai3 fen1 zhi1 liu4 dian3 san1 liu4 jiu3 cheng2 die1 bai3 fen1 zhi1 wu2 dian3 ling2 ling2
+008866|baker|{h a1 s a4 k e4 s ii1 t an3 z ong2 t ong2 i3 x van1 b u4 sp1 g ai1 zh en4 j in4 r u4 j in3 j i2 zh uang4 t ai4}|ha1 sa4 ke4 si1 tan3 zong2 tong2 yi3 xuan1 bu4 gai1 zhen4 jin4 ru4 jin3 ji2 zhuang4 tai4
+007839|baker|{r u2 r en2 in2 sh uei3 l eng2 n uan3 z ii4 zh iii1}|ru2 ren2 yin2 shui3 leng2 nuan3 zi4 zhi1
+008139|baker|{t a1 j in4 l ai2 h ou4 d a4 sh eng1 uen4 h ao3 sp1 iao4 uo3 m en5 b ang1 t a1 zh uen3 b ei4 i4 x ie1 p u3 t ong1 d ian3 x in5 sp1 d a3 b ao1 d ai4 z ou3}|ta1 jin4 lai2 hou4 da4 sheng1 wen4 hao3 yao4 wo3 men5 bang1 ta1 zhun3 bei4 yi4 xie1 pu3 tong1 dian3 xin5 da3 bao1 dai4 zou3
+008591|baker|{x iao3 n an2 h ai2 e2 t ou5 sh ang4 h an4 c en2 c en2 d e5 sp1 m o1 sh ang4 q v4 q ve4 m ei2 iou3 f a1 t ang4}|xiao3 nan2 hai2 e2 tou5 shang4 han4 cen2 cen2 de5 mo1 shang4 qu4 que4 mei2 you3 fa1 tang4
+006963|baker|{zh eng4 f u3 b u4 m en2 d e5 g uan1 van2 f u4 z e2 r en2 iao4 d ai4 t ou2 l ian2 j ie2 z ii4 l v4 sp1 ian2 g e2 iao1 q iou2 p ei4 ou3 z ii2 n v3}|zheng4 fu3 bu4 men2 de5 guan1 yuan2 fu4 ze2 ren2 yao4 dai4 tou2 lian2 jie2 zi4 lv4 yan2 ge2 yao1 qiu2 pei4 ou3 zi2 nv3
+009086|baker|{t ong2 iang4 d e5 sp1 h ou4 x van2 ch iii3 c uen4 sp1 ie3 j in4 x ing2 l e5 s uo1 d uan3}|tong2 yang4 de5 hou4 xuan2 chi3 cun4 ye3 jin4 xing2 le5 suo1 duan3
+003367|baker|{c ii3 h ou4 sp1 t ou1 d ao4 q ing2 k uang4 iou2 s uo3 h ao2 zh uan3 sp1 d an4 r eng2 sh iii2 iou3 c uen1 m in2 f an1 ve4 zh a4 l an5}|ci3 hou4 tou1 dao4 qing2 kuang4 you2 suo3 hao2 zhuan3 dan4 reng2 shi2 you3 cun1 min2 fan1 yue4 zha4 lan5
+007677|baker|{sh iii1 ua3 x in1 g e2 c eng2 k ua1 z an4 q i1 z ii3 sh iii4 n a4 m e5 c ong1 m ing5 sp1 sh iii4 t a1 x in1 m u4 zh ong1 d e5 l i2 x iang2 n v3 x ing4}|shi1 wa3 xin1 ge2 ceng2 kua1 zan4 qi1 zi3 shi4 na4 me5 cong1 ming5 shi4 ta1 xin1 mu4 zhong1 de5 li2 xiang2 nv3 xing4
+008412|baker|{uo3 z an4 sh iii2 h ai2 b u2 h uei4 o5}|wo3 zan4 shi2 hai2 bu2 hui4 o5
+007534|baker|{k uai4 d ian3 sp1 b ie2 d an1 g e1 l e5 sp1 zh eng4 c e4 zh e4 m e5 h ao3 sp1 h ai2 iou3 sh a2 m o2 c eng4 d e5}|kuai4 dian3 bie2 dan1 ge1 le5 zheng4 ce4 zhe4 me5 hao3 hai2 you3 sha2 mo2 ceng4 de5
+004447|baker|{zh en1 ch a2 c an1 m ou2 d ong3 i4 sp1 d ian3 ch u1 ie4 g ang1 h e2 l iang3 m ing2 g uan1 b ing1 sp1 z u3 ch eng2 x ian1 q ian2 z u3 uei4 g uan1 b ing1 k ai1 l u4}|zhen1 cha2 can1 mou2 dong3 yi4 dian3 chu1 ye4 gang1 he2 liang3 ming2 guan1 bing1 zu3 cheng2 xian1 qian2 zu3 wei4 guan1 bing1 kai1 lu4
+005637|baker|{sh en1 ch uan1 zh iii4 f u2 d e5 iang2 f ang2 d ian4 p ai4 ch u1 s uo3 m in2 j ing3 s uen1 iao2 sp1 zh eng4 z ai4 c uen2 q v2 k uan3 j i1 p ang2 x vn2 sh iii4}|shen1 chuan1 zhi4 fu2 de5 yang2 fang2 dian4 pai4 chu1 suo3 min2 jing3 sun1 yao2 zheng4 zai4 cun2 qu2 kuan3 ji1 pang2 xun2 shi4
+006046|baker|{m an4 iou1 iou1 d e5 i2 j v4 h ua4 sp1 sh iii1 r en2 d e5 r uei4 q i4 sp1 b ei4 m o2 d iao4 d a4 b an4}|man4 you1 you1 de5 yi2 ju4 hua4 shi1 ren2 de5 rui4 qi4 bei4 mo2 diao4 da4 ban4
+007445|baker|{er2 t a1 sh ou3 sh ang4 d e5 p i2 f u1 sp1 g e2 uai4 g an1 z ao4 m ao2 c ao5 sp1 v3 t a1 q ing1 ch uen2 d e5 l ian3 p ang2 s ii1 h ao2 b u4 p i3 p ei4}|er2 ta1 shou3 shang4 de5 pi2 fu1 ge2 wai4 gan1 zao4 mao2 cao5 yu3 ta1 qing1 chun2 de5 lian3 pang2 si1 hao2 bu4 pi3 pei4
+004274|baker|{b ei4 h ou5 b ao4 l u4 ch u1 d e5 sp1 d ang1 d i4 c u1 l u3 h eng4 m an2 d e5 zh iii2 zh eng4 s ii1 uei2 l ing4 r en2 j ing2 x ing3}|bei4 hou5 bao4 lu4 chu1 de5 dang1 di4 cu1 lu3 heng4 man2 de5 zhi2 zheng4 si1 wei2 ling4 ren2 jing2 xing3
+001709|baker|{j iou4 sh iii2 d e5 q van1 z ii5 sp1 iou3 h ang2 g uei1 b ang1 j v3 sp1 x ian4 z ai4 d e5 q van1 z ii5 sp1 ie2 iou3 ve1 d ing4 s u2 ch eng2 sp1 iou2 x i4 g uei1 z e2}|jiu4 shi2 de5 quan1 zi5 you3 hang2 gui1 bang1 ju3 xian4 zai4 de5 quan1 zi5 ye2 you3 yue1 ding4 su2 cheng2 you2 xi4 gui1 ze2
+008126|baker|{x ian4 z ai4 zh ou1 uei2 j v1 m in2 d uei4 n i3 m en5 j ia1 iou3 m ei2 iou3 t e4 b ie2 d e5 g an3 j ve2}|xian4 zai4 zhou1 wei2 ju1 min2 dui4 ni3 men5 jia1 you3 mei2 you3 te4 bie2 de5 gan3 jue2
+009518|baker|{d ao4 z uei4 h ou4 q ian1 d ing4 x ie2 i4 sh iii2 sp1 t a1 sh uo1 t a1 b a2 d ong3 sh iii4 zh ang3 d ang1 sh ang4 sp1 q i2 t a1 sp1 n i3 z a2 g ao3 d ou1 x ing2}|dao4 zui4 hou4 qian1 ding4 xie2 yi4 shi2 ta1 shuo1 ta1 ba2 dong3 shi4 zhang3 dang1 shang4 qi2 ta1 ni3 za2 gao3 dou1 xing2
+006506|baker|{ch e1 zh an4 d e5 uen4 x vn4 d ian4 h ua4 uei2 sp1 b a1 l iou4 s ii4 s an1 s an1 er4 s an1 er4}|che1 zhan4 de5 wen4 xun4 dian4 hua4 wei2 ba1 liu4 si4 san1 san1 er4 san1 er4
+009345|baker|{d i4 l iou4 q i1 b a1 j iou3 x iang4 r en4 u4 sp1 sh u3 v2 j ia1 q iang2 uan2 sh an4 q i3 ie4 j in1 r ong2 zh iii1 ch iii2}|di4 liu4 qi1 ba1 jiu3 xiang4 ren4 wu4 shu3 yu2 jia1 qiang2 wan2 shan4 qi3 ye4 jin1 rong2 zhi1 chi2
+003129|baker|{sh iii3 iong4 z uo4 g uo3 l ing2 d e5 x i1 g ua1 g uo3 q i2 j iao4 d a4}|shi3 yong4 zuo4 guo3 ling2 de5 xi1 gua1 guo3 qi2 jiao4 da4
+002577|baker|{c ong2 j in1 i3 h ou4 sp1 l u3 g uo2 r en2 j iang1 b u2 h uei4 c ong2 b ie2 g uo2 sh u2 h uei2 n u2 p u2 l e5}|cong2 jin1 yi3 hou4 lu3 guo2 ren2 jiang1 bu2 hui4 cong2 bie2 guo2 shu2 hui2 nu2 pu2 le5
+003776|baker|{t a1 m ao3 z u2 j inr4 x iang3 p a2 q i3 l ai2 sp1 d an4 sh iii3 zh ong1 m ei2 j inr4}|ta1 mao3 zu2 jinr4 xiang3 pa2 qi3 lai2 dan4 shi3 zhong1 mei2 jinr4
+009275|baker|{iou3 uei1 x ian3 d e5 d i4 f ang1 sp1 b u2 iao4 r ang4 x ve2 sh eng1 q ing1 s ao3 sp1 b i3 r u2 c a1 ch uang1 h u5}|you3 wei1 xian3 de5 di4 fang1 bu2 yao4 rang4 xue2 sheng1 qing1 sao3 bi3 ru2 ca1 chuang1 hu5
+000637|baker|{uo3 ve1 t a1 q v4 k an4 g ou2 zh an3}|wo3 yue1 ta1 qu4 kan4 gou2 zhan3
+002154|baker|{z u2 j ian4 m eng4 n uan3 er2 d e5 ian3 i4 f a1 zh an3 q ian2 l i4 iou3 d uo1 m e5 k uan1 g uang3}|zu2 jian4 meng4 nuan3 er2 de5 yan3 yi4 fa1 zhan3 qian2 li4 you3 duo1 me5 kuan1 guang3
+001602|baker|{d an4 h u4 l ian2 uang3 ch e1 l uen2 h ong1 r an2 er2 l ai2 c uei1 k u1 l a1 x iou3}|dan4 hu4 lian2 wang3 che1 lun2 hong1 ran2 er2 lai2 cui1 ku1 la1 xiu3
+001417|baker|{zh en1 iou3 g ong1 i4 k e3 ian2 m a5}|zhen1 you3 gong1 yi4 ke3 yan2 ma5
+001942|baker|{iong3 zh ou1 ch en1 zh ou1 sh iii4 j ia1 q iang2 l e5 q iang2 j iang4 v3 f ang2 v4 g ong1 z uo4 sp1 j i1 j i2 ing4 d uei4}|yong3 zhou1 chen1 zhou1 shi4 jia1 qiang2 le5 qiang2 jiang4 yu3 fang2 yu4 gong1 zuo4 ji1 ji2 ying4 dui4
+001081|baker|{zh e4 zh eng4 sh iii5 g ai1 an4 h eng2 g en4 v2 f a3 l v4 v3 l iao2 x iao4 zh iii1 j ian1 d e5 k uen4 h uo4}|zhe4 zheng4 shi5 gai1 an4 heng2 gen4 yu2 fa3 lv4 yu3 liao2 xiao4 zhi1 jian1 de5 kun4 huo4
+004949|baker|{er2 z ii5 sp1 n a4 ai4 d i2 sh eng1 d e5 b a4 b a5 z en3 m e5 b u4 f a1 m ing2 d ian4 d eng1 n e5}|er2 zi5 na4 ai4 di2 sheng1 de5 ba4 ba5 zen3 me5 bu4 fa1 ming2 dian4 deng1 ne5
+005791|baker|{zh ang1 ai4 g uo2 sp1 q ve4 d a2 d ian2 h ao3 x ing2 zh uang1 sp1 p o4 b u4 j i2 d ai4 d e5 x iang3 iao4 l i2 k ai1}|zhang1 ai4 guo2 que4 da2 dian2 hao3 xing2 zhuang1 po4 bu4 ji2 dai4 de5 xiang3 yao4 li2 kai1
+002918|baker|{x ie4 x ian2 i3 sh a2 sh a3 d ie4 sp1 l ai2 x ing2 r ong2 z a2 zh iii4 d e5 b ao4 l iao4}|xie4 xian2 yi3 sha2 sha3 die4 lai2 xing2 rong2 za2 zhi4 de5 bao4 liao4
+007703|baker|{uo3 ing1 g ai1 d uo1 z an3 x ie1 q ian2 sp1 uei4 h ai2 z ii5 m en5 m ai3 i4 x ie1 b en3 z ii5}|wo3 ying1 gai1 duo1 zan3 xie1 qian2 wei4 hai2 zi5 men5 mai3 yi4 xie1 ben3 zi5
+008369|baker|{h ao3 z ai4 sp1 t a1 ch u1 ian3 l e5 m i2 er3 k e4}|hao3 zai4 ta1 chu1 yan3 le5 mi2 er3 ke4
+003290|baker|{j vn1 z ii3 d ong4 k ou3 b u2 d ong4 sh ou3 o5}|jun1 zi3 dong4 kou3 bu2 dong4 shou3 o5
+002318|baker|{uen2 zh ong1 b ing4 uei4 sh e4 j i2 r en4 h e2 x ing2 sh iii4 d e5 iou2 j iang3 j ing4 c ai1 h uo2 d ong4}|wen2 zhong1 bing4 wei4 she4 ji2 ren4 he2 xing2 shi4 de5 you2 jiang3 jing4 cai1 huo2 dong4
+006430|baker|{sh iii4 sh iii2 sh ang4 sp1 i2 iou3 sh ang4 h ai3 b en2 t u2 q i3 ie4 k ai1 sh iii3 j iang4 j ia4 p ao3 l iang4}|shi4 shi2 shang4 yi2 you3 shang4 hai3 ben2 tu2 qi3 ye4 kai1 shi3 jiang4 jia4 pao3 liang4
+003991|baker|{m u4 b an3 q ing1 ua3 sp1 d iao4 j iao3 sp1 j i2 u1 q ian2 u1 h ou4 sp1 m a3 d e5 l ao3 g ao1 d e5 ch ai2 d uo4 sp1 j iou4 sh iii4 s ang1 zh iii2 r en2 sh iii4 x i2 d e5 m in2 j v1}|mu4 ban3 qing1 wa3 diao4 jiao3 ji2 wu1 qian2 wu1 hou4 ma3 de5 lao3 gao1 de5 chai2 duo4 jiu4 shi4 sang1 zhi2 ren2 shi4 xi2 de5 min2 ju1
+000955|baker|{sh uei3 ch iii2 b ian1 iou3 d ian4 b eng4 h e2 sh uei2 g uan3}|shui3 chi2 bian1 you3 dian4 beng4 he2 shui2 guan3
+009692|baker|{r iii4 b en3 d e5 in3 sh iii2 s ii1 x iang3 sp1 in3 sh iii2 uen2 h ua4 sp1 sh iii2 u4 sp1 p eng1 r en4 s uo3 sh ou4 d ao4 d e5 z uei4 d a4 ing2 x iang3 sh iii4 zh ong1 g uo2}|ri4 ben3 de5 yin3 shi2 si1 xiang3 yin3 shi2 wen2 hua4 shi2 wu4 peng1 ren4 suo3 shou4 dao4 de5 zui4 da4 ying2 xiang3 shi4 zhong1 guo2
+009708|baker|{uo3 l ing2 d ao3 l e5 t a1 u3 sh iii2 q i1 n ian2 sp1 ie3 b u4 k e3 b i4 m ian3 d e5 f an4 l e5 i4 x ie1 c uo4}|wo3 ling2 dao3 le5 ta1 wu3 shi2 qi1 nian2 ye3 bu4 ke3 bi4 mian3 de5 fan4 le5 yi4 xie1 cuo4
+005712|baker|{sh an1 h u2 ch ong2 d uei4 uen1 d u4 t ong2 iang4 m in2 g an3}|shan1 hu2 chong2 dui4 wen1 du4 tong2 yang4 min2 gan3
+000353|baker|{ai4 k en2 er3 d e5 z ao1 v4 j i2 h uai4 l e5 uang2 d a4 j ie3}|ai4 ken2 er3 de5 zao1 yu4 ji2 huai4 le5 wang2 da4 jie3
+008220|baker|{d an4 r u2 g uo3 an4 ch e1 d uei4 g uei1 m o2 sp1 i4 h ai1 sh u4 q ian1 l iang4 ch e1 d e5 l iang4 j i2 j ve2 d uei4 s uan4 b u2 sh ang4 z uei4 d a4}|dan4 ru2 guo3 an4 che1 dui4 gui1 mo2 yi4 hai1 shu4 qian1 liang4 che1 de5 liang4 ji2 jue2 dui4 suan4 bu2 shang4 zui4 da4
+005929|baker|{s ou3 zh ong1 q iang2 d iao4 sh uo1 sp1 zh e4 iang4 z uo4 uei2 sh iii2 sh ang4 z ao3 sp1 b u2 z an4 ch eng2 ao4 b a1 m a2 f ang3 uen4 zh e4 l iang3 g e4 ch eng2 sh iii4}|sou3 zhong1 qiang2 diao4 shuo1 zhe4 yang4 zuo4 wei2 shi2 shang4 zao3 bu2 zan4 cheng2 ao4 ba1 ma2 fang3 wen4 zhe4 liang3 ge4 cheng2 shi4
+006881|baker|{uei2 i1 l ing4 m a3 d e2 b ao3 b u2 sh uen4 x in1 d e5 sp1 j iou4 sh eng4 x ia4 uen2 x ve2 sh e4}|wei2 yi1 ling4 ma3 de2 bao3 bu2 shun4 xin1 de5 jiu4 sheng4 xia4 wen2 xue2 she4
+006328|baker|{j ian3 zh iii2 sh iii4 i2 g e5 r en2 d ing2 l iang3 g e5 r en2 iong4}|jian3 zhi2 shi4 yi2 ge5 ren2 ding2 liang3 ge5 ren2 yong4
+005955|baker|{t a1 z ou3 l u4 i4 q ve2 i4 q ve2 d e5 sp1 x iao3 er2 m a2 b i4 zh eng4 l uo4 x ia4 d e5 b ing4 g en1}|ta1 zou3 lu4 yi4 que2 yi4 que2 de5 xiao3 er2 ma2 bi4 zheng4 luo4 xia4 de5 bing4 gen1
+005319|baker|{l ian2 x iao2 t uei3 ch ang2 k u1 sh eng1 x iang3}|lian2 xiao2 tui3 chang2 ku1 sheng1 xiang3
+001014|baker|{q ing1 p en2 b ao4 v3 sp1 j in3 g en1 zh e5 b ing1 b ao2 er2 l ai2}|qing1 pen2 bao4 yu3 jin3 gen1 zhe5 bing1 bao2 er2 lai2
+004414|baker|{x i2 j in4 p ing2 h uo4 z eng4 h u2 r en2 d uei4 d uei4 f u2}|xi2 jin4 ping2 huo4 zeng4 hu2 ren2 dui4 dui4 fu2
+004682|baker|{uen4 q i2 i3 q ian2 t a1 ch eng2 r en4 g uo4 sp1 t a1 b i2 z ii5 l i3 h eng1 i4 sh eng1 sp1 b u4 sh uo1 h ua4}|wen4 qi2 yi3 qian2 ta1 cheng2 ren4 guo4 ta1 bi2 zi5 li3 heng1 yi4 sheng1 bu4 shuo1 hua4
+009471|baker|{d ao3 sh ang4 sp1 iou3 h an2 f ang1 j ian4 z ao4 d e5 d eng1 t a3 sp1 h ai3 an4 sh ao4 s uo3 h e2 m a3 t ou2 d eng3 sh e4 sh iii1}|dao3 shang4 you3 han2 fang1 jian4 zao4 de5 deng1 ta3 hai3 an4 shao4 suo3 he2 ma3 tou2 deng3 she4 shi1
+002183|baker|{g ao1 s u4 l u4 sh ang4 zh ei4 iang4 h uan4 t ai1 sh iii2 z ai4 t ai4 uei1 x ian3}|gao1 su4 lu4 shang4 zhei4 yang4 huan4 tai1 shi2 zai4 tai4 wei1 xian3
+007180|baker|{j i1 b en3 uan2 g ong1 d e5 j i1 ch ang2 ch ang3 q v1 sp1 i3 k an4 b u2 d ao4 r ong2 d ong4 r ong2 g ou1}|ji1 ben3 wan2 gong1 de5 ji1 chang2 chang3 qu1 yi3 kan4 bu2 dao4 rong2 dong4 rong2 gou1
+003300|baker|{m ei2 n v3 i2 l eng4 sp1 r uo4 r uo4 d e5 sh uo1 sp1 uo3 s ong4 n i3 ch u1 q v4 b a5}|mei2 nv3 yi2 leng4 ruo4 ruo4 de5 shuo1 wo3 song4 ni3 chu1 qu4 ba5
+001285|baker|{an4 j ian4 g uen2 x ve3 q iou2 b an1 k uo4 d a4}|an4 jian4 gun2 xue3 qiu2 ban1 kuo4 da4
+006125|baker|{c ong2 sh iii1 t i3 k an4 sp1 t a1 s ii3 q ian2 z ao1 d ao4 d ao1 c ii4 sp1 d u2 d a3 h e2 f en2 sh ao1}|cong2 shi1 ti3 kan4 ta1 si3 qian2 zao1 dao4 dao1 ci4 du2 da3 he2 fen2 shao1
+002236|baker|{b ao2 x ian2 g u3 n i4 sh iii4 z ou3 q iang2}|bao2 xian2 gu3 ni4 shi4 zou3 qiang2
+002214|baker|{uo3 m en5 z u1 g ei3 b ie2 g e4 m a5 sp1 ie3 iao4 sh ou1 q ian2 s ai5}|wo3 men5 zu1 gei3 bie2 ge4 ma5 ye3 yao4 shou1 qian2 sai5
+002086|baker|{ch uan2 sh uo1 d iao1 ch an2 j iou4 sh eng1 v2 s ii1 zh ang3 v2 s ii1}|chuan2 shuo1 diao1 chan2 jiu4 sheng1 yu2 si1 zhang3 yu2 si1
+005514|baker|{sh iii4 z en3 m e5 iang4 d e5 uen2 h ua4 sh eng1 t ai4 sp1 l ing4 d ang1 sh iii4 r en2 r u2 c ii3 k uan1 r ong2 h uo4 u2 n ai4 n e5}|shi4 zen3 me5 yang4 de5 wen2 hua4 sheng1 tai4 ling4 dang1 shi4 ren2 ru2 ci3 kuan1 rong2 huo4 wu2 nai4 ne5
+007345|baker|{g ong1 x i2 n i3 sp1 ai4 sh ang4 l e5 i2 g e4 iong2 van3 b u2 h uei4 l i2 k ai1 d e5 r en2}|gong1 xi2 ni3 ai4 shang4 le5 yi2 ge4 yong2 yuan3 bu2 hui4 li2 kai1 de5 ren2
+004528|baker|{c ii3 h ou4 sp1 j in4 sh en1 zh iii1 j ia1 sp1 u4 d ang4 uan3 q ie1 q van4 v4 sp1 sh iii3 zh iii1 j ia1 v4 h u4 x iao3 sp1 i3 q i1 j ian4 ch u2 j i1 x i2}|ci3 hou4 jin4 shen1 zhi1 jia1 wu4 dang4 wan3 qie1 quan4 yu4 shi3 zhi1 jia1 yu4 hu4 xiao3 yi3 qi1 jian4 chu2 ji1 xi2
+003503|baker|{k e3 uang2 b ao2 h ai3 b u2 zh ei4 iang4 k an4 sp1 t a1 sh uo1 sp1 b u2 j iou4 sh iii4 sh uei4 i4 x iou3 j iao4 m a5}|ke3 wang2 bao2 hai3 bu2 zhei4 yang4 kan4 ta1 shuo1 bu2 jiu4 shi4 shui4 yi4 xiu3 jiao4 ma5
+008960|baker|{d an4 ao4 d i2 ch e1 l i3 d e5 r en2 t ai4 d u5 b i3 j iao4 m an2 h eng4 sp1 sh uang1 f ang1 j iang1 ch iii2 b u2 x ia4}|dan4 ao4 di2 che1 li3 de5 ren2 tai4 du5 bi3 jiao4 man2 heng4 shuang1 fang1 jiang1 chi2 bu2 xia4
+007490|baker|{l i3 j ian4 h en4 u1 j i2 u1 sp1 ie3 d uei4 n a4 n v3 h ai2 k an4 b u2 sh uen4 ian3 sp1 h en4 b u4 d e2 t a1 d e5 sh e2 t ou5 d uan4 d iao4}|li3 jian4 hen4 wu1 ji2 wu1 ye3 dui4 na4 nv3 hai2 kan4 bu2 shun4 yan3 hen4 bu4 de2 ta1 de5 she2 tou5 duan4 diao4
+007742|baker|{iou4 z ou3 h uei2 l ai2 z uo4 z ai4 uo2 z uo3 b ian1 sp1 k ai1 sh iii3 d uei4 uo3 l ou2 l ou3 b ao4 b ao4}|you4 zou3 hui2 lai2 zuo4 zai4 wo2 zuo3 bian1 kai1 shi3 dui4 wo3 lou2 lou3 bao4 bao4
+009628|baker|{ch ong2 sh eng4 s ii4 s an1 t a3 sp1 uo3 q iang2 l i4 t uei1 j ian4}|chong2 sheng4 si4 san1 ta3 wo3 qiang2 li4 tui1 jian4
+009724|baker|{i4 m ing2 n v3 sh iii4 k u1 h ao2 zh e5 sp1 b ei4 x iao3 ve4 d eng3 r en2 ch an1 f u2 zh e5 l i2 k ai1}|yi4 ming2 nv3 shi4 ku1 hao2 zhe5 bei4 xiao3 yue4 deng3 ren2 chan1 fu2 zhe5 li2 kai1
+006795|baker|{uo3 m en5 j ie3 p ou1 i2 g e4 m a2 q ve4 sp1 q v4 k an4 i2 x ia4}|wo3 men5 jie3 pou1 yi2 ge4 ma2 que4 qu4 kan4 yi2 xia4
+008863|baker|{ing1 c ai3 er2 k en3 d ing4 h uei4 sh ou1 sh iii5 t a1 d e5}|ying1 cai3 er2 ken3 ding4 hui4 shou1 shi5 ta1 de5
+007008|baker|{uang2 iou3 uei4 t a1 d a3 z ao4 l e5 sh iii2 d uo1 k uan3 z ao4 x ing2 sp1 g e4 g e5 x v2 x v3 r u2 sh eng1}|wang2 you3 wei4 ta1 da3 zao4 le5 shi2 duo1 kuan3 zao4 xing2 ge4 ge5 xu2 xu3 ru2 sheng1
+001121|baker|{t a1 z uei3 b a5 l i3 sh uo1 zh e5 z ang1 h ua4 sp1 j in3 z uan4 q van2 t ou5 ch ao2 uo3 h uei1 u3}|ta1 zui3 ba5 li3 shuo1 zhe5 zang1 hua4 jin3 zuan4 quan2 tou5 chao2 wo3 hui1 wu3
+001832|baker|{i1 sh en3 x van1 p an4 h ou4 sp1 sh ang4 iou3 q in4 t i2 ch u1 sh ang4 s u4}|yi1 shen3 xuan1 pan4 hou4 shang4 you3 qin4 ti2 chu1 shang4 su4
+007054|baker|{iou2 v2 sh en1 sh ang4 d e5 b ei1 l ou3 t ai4 zh ong4 sp1 zh eng4 t ing2 j iao3 x ie1 x i5}|you2 yu2 shen1 shang4 de5 bei1 lou3 tai4 zhong4 zheng4 ting2 jiao3 xie1 xi5
+009114|baker|{x iao3 zh eng4 b iao2 j ie3 j iou4 z ai4 zh ong1 q iou1 j ie2 zh ao3 d ao4 p o2 j ia1 d e5}|xiao3 zheng4 biao2 jie3 jiu4 zai4 zhong1 qiu1 jie2 zhao3 dao4 po2 jia1 de5
+001654|baker|{n en4 m o2 ch u1 x ie3 zh en1 ie3 ch eng2 f eng1 sh ang4}|nen4 mo2 chu1 xie3 zhen1 ye3 cheng2 feng1 shang4
+009834|baker|{i2 g e4 r en2 k u1 z uo4 z ai4 in1 an4 d e5 j iao3 l uo4 l i3 sp1 j iou1 zh e5 d a4 t uei3 uen4 z ii4 j i2 z en3 m e5 b an4}|yi2 ge4 ren2 ku1 zuo4 zai4 yin1 an4 de5 jiao3 luo4 li3 jiu1 zhe5 da4 tui3 wen4 zi4 ji2 zen3 me5 ban4
+002811|baker|{j ie1 uan2 zh e4 g e5 d ian4 h ua4 sp1 iou3 x ie1 x iang3 b u4 t ong1 d e5 ueng1 m ie4 sp1 d a3 d ian4 h ua4 uen4 i1 l ai2}|jie1 wan2 zhe4 ge5 dian4 hua4 you3 xie1 xiang3 bu4 tong1 de5 weng1 mie4 da3 dian4 hua4 wen4 yi1 lai2
+004112|baker|{l ing4 j i4 h ua4 sp1 uang2 h u4 n ing2 sp1 d ai4 b ing3 g uo2 d eng3 c an1 j ia1 h uo2 d ong4}|ling4 ji4 hua4 wang2 hu4 ning2 dai4 bing3 guo2 deng3 can1 jia1 huo2 dong4
+004266|baker|{b u2 iao4 l uan4 uen4 n v3 h ai2 z ii5 d e5 n ian2 l ing2 l a5}|bu2 yao4 luan4 wen4 nv3 hai2 zi5 de5 nian2 ling2 la5
+000096|baker|{t u2 uei2 zh ong1 sh an1 zh an1 van2 g uang3 iao1 q ian1 v2 iou2 k e4 sp1 p in3 ch ang2 ch ong2 iang2 i4 sh ou4 q ian1 s ou3 ian4}|tu2 wei2 zhong1 shan1 zhan1 yuan2 guang3 yao1 qian1 yu2 you2 ke4 pin3 chang2 chong2 yang2 yi4 shou4 qian1 sou3 yan4
+003186|baker|{m u4 q ian2 h ai2 uei4 iou3 sh ang1 uang2 j i2 s uen2 h uei3 b ao4 g ao4}|mu4 qian2 hai2 wei4 you3 shang1 wang2 ji2 sun2 hui3 bao4 gao4
+005784|baker|{sh ang4 c ii4 l ai2 x in1 j ia1 p o1 sp1 ie3 j ian4 g uo4 m ian4 d e5 l ao3 p eng2 iou5 n e5}|shang4 ci4 lai2 xin1 jia1 po1 ye3 jian4 guo4 mian4 de5 lao3 peng2 you5 ne5
+003359|baker|{n an2 d ao4 sp1 n i3 b u4 x iang3 g en1 b en4 n iou1 l iao2 l iao5 t ian1 m a5}|nan2 dao4 ni3 bu4 xiang3 gen1 ben4 niu1 liao2 liao5 tian1 ma5
+005165|baker|{k ou2 k e3 d e5 sh iii2 z ai4 sh ou4 b u5 l iao3 sp1 j iou4 iong4 sh ou3 j in1 zh an1 d ian2 sh uei3 sp1 b a2 z uei3 ch uen2 n ong4 sh iii1}|kou2 ke3 de5 shi2 zai4 shou4 bu5 liao3 jiu4 yong4 shou3 jin1 zhan1 dian2 shui3 ba2 zui3 chun2 nong4 shi1
+000061|baker|{m an4 s a4 n i2 ve1 g ang2 k ou3 b ei4 g uan1 b i4}|man4 sa4 ni2 yue1 gang2 kou3 bei4 guan1 bi4
+005023|baker|{i4 k ai1 sh iii2 h en3 m an2 h eng4 sp1 b ing4 q ie3 b u4 g ei2 uo3 t uei4}|yi4 kai1 shi2 hen3 man2 heng4 bing4 qie3 bu4 gei2 wo3 tui4
+003355|baker|{q i2 zh ong1 sp1 ch en2 j in1 h uo3 uan2 ch eng2 q i4 g uan1 j van1 z eng4}|qi2 zhong1 chen2 jin1 huo3 wan2 cheng2 qi4 guan1 juan1 zeng4
+002436|baker|{ch iii1 f an4 k ao4 l ao2 b ai3 x ing4 s ong4 b ao1 g u3 sp1 ch iii1 c ai4 k ao4 d i4 x iong5 m en5 sp1 sh ang4 sh an1 d a3 l ie4 sp1 ua1 ie3 c ai4}|chi1 fan4 kao4 lao2 bai3 xing4 song4 bao1 gu3 chi1 cai4 kao4 di4 xiong5 men5 shang4 shan1 da3 lie4 wa1 ye3 cai4
+008586|baker|{c ii3 q ian2 sh a1 i4 c eng2 b iao3 sh iii4 sp1 j ie2 h uen1 h ou4 k en3 d ing4 h uei4 m a3 sh ang4 iao4 b ao3 b ao5}|ci3 qian2 sha1 yi4 ceng2 biao3 shi4 jie2 hun1 hou4 ken3 ding4 hui4 ma3 shang4 yao4 bao3 bao5
+009707|baker|{r an2 h ou4 iou3 r en2 g uo4 l ai2 n a2 zh e4 g e1 m enr5 d e5 h ua4 t ong3 sp1 iao4 b a3 t a1 q ing3 ch u1 q v4}|ran2 hou4 you3 ren2 guo4 lai2 na2 zhe4 ge1 menr5 de5 hua4 tong3 yao4 ba3 ta1 qing3 chu1 qu4
+002674|baker|{n ong2 m in2 g ong1 v2 zh an4 sh uei3 ch eng1 sp1 zh e4 l ao3 n ong2 m in2 zh eng4 l ia3 q ian2 ie3 zh en1 b u2 i4 ia5 sp1 zh e4 ie3 b u4 g ei3 ia5}|nong2 min2 gong1 yu2 zhan4 shui3 cheng1 zhe4 lao3 nong2 min2 zheng4 lia3 qian2 ye3 zhen1 bu2 yi4 ya5 zhe4 ye3 bu4 gei3 ya5
+009619|baker|{x iao3 n ing4 m ei2 iou3 d uo1 x iang3 sp1 j iou4 sh ang4 l e5 ch e1}|xiao3 ning4 mei2 you3 duo1 xiang3 jiu4 shang4 le5 che1
+001331|baker|{s an1 g eng1 b an4 ie4 b u2 sh uei4 j iao4 sp1 h an3 sh en2 m e5 h an3}|san1 geng1 ban4 ye4 bu2 shui4 jiao4 han3 shen2 me5 han3
+008937|baker|{z ai4 j i4 zh e3 r en2 sh u4 b ing4 m ei2 j ian2 sh ao3 x ia4 sp1 r ong3 van2 z ii4 r an2 ch an3 sh eng1}|zai4 ji4 zhe3 ren2 shu4 bing4 mei2 jian2 shao3 xia4 rong3 yuan2 zi4 ran2 chan3 sheng1
+001052|baker|{van2 t ou2 d eng1 sp1 h ei1 ian1 c ong5 sp1 d a4 m ei2 d ou1}|yuan2 tou2 deng1 hei1 yan1 cong5 da4 mei2 dou1
+001137|baker|{iou3 l in2 j v5 ch eng1 sp1 uang2 m ou3 h ao4 j ian3 x ie1 p o4 l anr4 sp1 l iang3 j ian1 u1 z ii5 l i3 sp1 d ou1 d uei1 m an3 l e5}|you3 lin2 ju5 cheng1 wang2 mou3 hao4 jian3 xie1 po4 lanr4 liang3 jian1 wu1 zi5 li3 dou1 dui1 man3 le5
+005697|baker|{l ai4 ch ang1 x ing1 d e5 q ian2 f an3 ie3 sh iii4 r u2 c ii3}|lai4 chang1 xing1 de5 qian2 fan3 ye3 shi4 ru2 ci3
+006384|baker|{n i3 z ai4 x ia4 b ian5 d ou1 g an4 sh en2 m e5 l e5}|ni3 zai4 xia4 bian5 dou1 gan4 shen2 me5 le5
+006899|baker|{g ao1 x iao3 s ong1 j iou4 g eng4 b u2 iao4 sh uo1 l e5 sp1 t a1 d uei4 in1 ve4 sh iii4 b i3 j iao4 t iao1 t i4 d e5}|gao1 xiao3 song1 jiu4 geng4 bu2 yao4 shuo1 le5 ta1 dui4 yin1 yue4 shi4 bi3 jiao4 tiao1 ti4 de5
+001976|baker|{zh ou1 j ie2 l uen2 in1 b ao4 c u1 d a3 j i4 zh e2 in3 g uan1 zh u4}|zhou1 jie2 lun2 yin1 bao4 cu1 da3 ji4 zhe2 yin3 guan1 zhu4
+004695|baker|{iou3 q i1 b a1 g e5 sp1 m ao4 s ii4 u2 s uo3 sh iii4 sh iii4 d e5 n an2 r en5 sp1 z ai4 ch ang3 f ang2 uai4 q vn1 x vn2}|you3 qi1 ba1 ge5 mao4 si4 wu2 suo3 shi4 shi4 de5 nan2 ren5 zai4 chang3 fang2 wai4 qun1 xun2
+002520|baker|{g ei2 n i3 m en2 d ian3 g e5 l a4 zh u2 b a5}|gei2 ni3 men2 dian3 ge5 la4 zhu2 ba5
+006455|baker|{uo3 z ai4 l ang2 f ang2 d ai1 l e5 i4 n ian2 b an4}|wo3 zai4 lang2 fang2 dai1 le5 yi4 nian2 ban4
+009814|baker|{m a3 d e2 b ao3 d e5 l i3 l uen4 k e4 sh ang4 d e5 r en2 x in1 h uan4 s an4 sp1 l iang3 g e5 l i3 b ai4 l i3 t uei4 sh e4 d e5 r en2 sh u4 d ao4 l e5 sh iii2 u3 g e4}|ma3 de2 bao3 de5 li3 lun4 ke4 shang4 de5 ren2 xin1 huan4 san4 liang3 ge5 li3 bai4 li3 tui4 she4 de5 ren2 shu4 dao4 le5 shi2 wu3 ge4
+008284|baker|{zh en2 s uo3 i4 f ang1 z e2 r en4 uei2 m ei2 iou3 z e2 r en4}|zhen2 suo3 yi4 fang1 ze2 ren4 wei2 mei2 you3 ze2 ren4
+001578|baker|{sh uan1 z ai4 sh en1 sh ang5 sp1 l iang3 g e4 ian3 d ou1 k ou4 s ii3}|shuan1 zai4 shen1 shang5 liang3 ge4 yan3 dou1 kou4 si3
+005145|baker|{z uei4 j in4 j i3 g e5 ve4 zh ong1 sp1 t a1 iou3 sh iii2 i4 t ian1 ie3 z uo4 b u5 ch eng2 i4 zh uang1 m ai3 m ai5}|zui4 jin4 ji3 ge5 yue4 zhong1 ta1 you3 shi2 yi4 tian1 ye3 zuo4 bu5 cheng2 yi4 zhuang1 mai3 mai5
+000910|baker|{z ai4 j ie1 t ou2 m ai4 i4 d e5 l i3 v4 x van1 d ie1 d ie5}|zai4 jie1 tou2 mai4 yi4 de5 li3 yu4 xuan1 die1 die5
+005108|baker|{d uei4 c ii3 sp1 l iou2 l uan2 x iong2 c eng2 q ing3 q iou2 ao4 m en2 f a3 van4 sp1 b o2 h uei2 zh iii3 k ong4 sp1 d an4 z ao1 d ao4 j v4 j ve2}|dui4 ci3 liu2 luan2 xiong2 ceng2 qing3 qiu2 ao4 men2 fa3 yuan4 bo2 hui2 zhi3 kong4 dan4 zao1 dao4 ju4 jue2
+007330|baker|{m ang2 zh e5 d eng3 d ai4 n i3 d iao4 q ian3 ia5}|mang2 zhe5 deng3 dai4 ni3 diao4 qian3 ya5
+003611|baker|{ch uang1 h u4 uan2 h ao3 sp1 d ao4 z ei2 sh iii4 q iang2 x ing2 ch uai4 m en2 r u4 sh iii4}|chuang1 hu4 wan2 hao3 dao4 zei2 shi4 qiang2 xing2 chuai4 men2 ru4 shi4
+000400|baker|{zh e4 v2 sh ang1 q iou1 iou4 iou3 h e2 i4 n e5}|zhe4 yu2 shang1 qiu1 you4 you3 he2 yi4 ne5
+008737|baker|{zh e4 g e4 j iang2 f a3 sp1 uo3 r en4 uei2 sh iii4 b u4 f u2 h e2 sh iii2 j i4 q ing2 k uang4}|zhe4 ge4 jiang2 fa3 wo3 ren4 wei2 shi4 bu4 fu2 he2 shi2 ji4 qing2 kuang4
+004904|baker|{p i2 f u1 b i3 g uo4 q v4 h ao2 h en3 d uo1 o5}|pi2 fu1 bi3 guo4 qu4 hao2 hen3 duo1 o5
+004745|baker|{x iao3 iang2 b u2 d uan4 f an3 k ang4 sp1 sh uang1 f ang1 l i4 l iang4 x van2 sh u1 sp1 z uei4 h ou4 uang2 h u3 i4 t u2 d e2 ch eng3}|xiao3 yang2 bu2 duan4 fan3 kang4 shuang1 fang1 li4 liang4 xuan2 shu1 zui4 hou4 wang2 hu3 yi4 tu2 de2 cheng3
+000349|baker|{d ao1 q iang1 j ian4 j i3 f u3 ve4 g ou1 ch a1 sp1 d ou1 k an4 b ie2 r en2 uanr2 g uo4}|dao1 qiang1 jian4 ji3 fu3 yue4 gou1 cha1 dou1 kan4 bie2 ren2 wanr2 guo4
+001317|baker|{d an1 sh en1 g ou2 uo3 z ai4 j ia1 f ang2 zh iii3 sh ou4 d ao4 i2 uan4 d ian3 sh ang1 h ai4}|dan1 shen1 gou2 wo3 zai4 jia1 fang2 zhi3 shou4 dao4 yi2 wan4 dian3 shang1 hai4
+000656|baker|{t a1 z ai4 in2 zh ou1 i4 j ia1 in2 h ang2 g uai1 g uai1 h uei4 k uan3}|ta1 zai4 yin2 zhou1 yi4 jia1 yin2 hang2 guai1 guai1 hui4 kuan3
+004405|baker|{f a1 g u3 x iao4 sp1 c ong2 b u2 j i4 m o4 sp1 d i3 j ia4 i4 van2 zh en1 sh iii2 x ie3 zh ao4}|fa1 gu3 xiao4 cong2 bu2 ji4 mo4 di3 jia4 yi4 yuan2 zhen1 shi2 xie3 zhao4
+003985|baker|{b ei4 r en2 ch uo1 zh e5 j i2 l iang2 g u3 sp1 h uo2 zh e5 ie3 n an2 sh ou4 sp1 b u2 sh iii4 uo3 z uan1 n iou2 j iao3 j ian1}|bei4 ren2 chuo1 zhe5 ji2 liang2 gu3 huo2 zhe5 ye3 nan2 shou4 bu2 shi4 wo3 zuan1 niu2 jiao3 jian1
+004331|baker|{er2 z ai4 t uei4 i4 h ou4 sp1 v2 l e4 q van1 sp1 ie3 c eng2 sh iii4 l i3 n ing2 sh ou2 x van3 d e5 ch ang2 sh iii4}|er2 zai4 tui4 yi4 hou4 yu2 le4 quan1 ye3 ceng2 shi4 li3 ning2 shou2 xuan3 de5 chang2 shi4
+001905|baker|{t ian1 q i4 v4 b ao4 zh iii3 sh uo1 sp1 j in1 t ian1 iou2 v3}|tian1 qi4 yu4 bao4 zhi3 shuo1 jin1 tian1 you2 yu3
+004985|baker|{d uei4 v2 zh e4 i2 p an4 j ve2 j ie2 g uo3 sp1 l i2 l ei2 l ao3 l ao5 d ai4 l i3 l v4 sh iii1 sp1 uang2 h ai3 iang2 b iao3 sh iii4 r en4 k e3}|dui4 yu2 zhe4 yi2 pan4 jue2 jie2 guo3 li2 lei2 lao3 lao5 dai4 li3 lv4 shi1 wang2 hai3 yang2 biao3 shi4 ren4 ke3
+002950|baker|{t u2 uei2 i4 m ing2 x ve2 sh eng1 sp1 z ai4 ch e2 b an3 f ang2 ch uang1 h u5 sh ang5 sp1 uei4 s ii1 d iao4 d e5 b ao1 zh uang1 t ie1 t iao2}|tu2 wei2 yi4 ming2 xue2 sheng1 zai4 che2 ban3 fang2 chuang1 hu5 shang5 wei4 si1 diao4 de5 bao1 zhuang1 tie1 tiao2
+004954|baker|{vn4 d ong4 ch ang3 sh ang4 ch iii4 zh a4 f eng1 vn2 d e5 t ong2 uen2 sp1 sh eng1 h uo2 zh ong1 q ve4 iou3 zh e5 x ian3 uei2 r en2 zh iii1 d e5 l ing4 i2 m ian4}|yun4 dong4 chang3 shang4 chi4 zha4 feng1 yun2 de5 tong2 wen2 sheng1 huo2 zhong1 que4 you3 zhe5 xian3 wei2 ren2 zhi1 de5 ling4 yi2 mian4
+009710|baker|{l ao3 b ei4 m ei3 c ii4 l iang4 x iang4 q ian2 sp1 d ou1 iao4 x i4 x in1 d e5 t u2 zh iii1 m o2 f en3 i4 f an1 n e5}|lao3 bei4 mei3 ci4 liang4 xiang4 qian2 dou1 yao4 xi4 xin1 de5 tu2 zhi1 mo2 fen3 yi4 fan1 ne5
+007141|baker|{q ian2 f ang1 ie3 sh iii4 m ing2 l iang4 er2 uen1 r ou2 d e5 g uang1}|qian2 fang1 ye3 shi4 ming2 liang4 er2 wen1 rou2 de5 guang1
+002482|baker|{s ong4 k e1 m ai4 k ao3 ia1 sp1 t a1 q v4 p eng3 l e5 ch ang3}|song4 ke1 mai4 kao3 ya1 ta1 qu4 peng3 le5 chang3
+007574|baker|{j v4 l iao2 j ie3 sp1 x in1 x ing2 d ian4 z ii2 b iao3 sp1 v3 ch uan2 t ong3 j i1 x ie4 b iao3 x iang1 b i3 sp1 z ii4 sh en1 h ao4 d ian4 l iang4 d i1}|ju4 liao2 jie3 xin1 xing2 dian4 zi2 biao3 yu3 chuan2 tong3 ji1 xie4 biao3 xiang1 bi3 zi4 shen1 hao4 dian4 liang4 di1
+003447|baker|{sh iii2 iong4 zh iii2 u4 iou2 zh ong1 sp1 i4 b an1 b u4 h an2 d an3 g u4 ch uen2 sp1 h uo4 h an2 l iang4 j i2 d i1}|shi2 yong4 zhi2 wu4 you2 zhong1 yi4 ban1 bu4 han2 dan3 gu4 chun2 huo4 han2 liang4 ji2 di1
+007365|baker|{s an1 iao4 q ing1 zh eng4 l ian2 j ie2 sp1 b u2 r ang4 b ai2 p ao2 d ian3 m o4}|san1 yao4 qing1 zheng4 lian2 jie2 bu2 rang4 bai2 pao2 dian3 mo4
+007628|baker|{g uo1 m ou3 ch eng1 sp1 i3 q ian2 j ing1 t a1 j ie4 sh ao4 j van1 l uan3 d e5 h ai2 iou3 sp1 e2 l uo2 s ii1 m o2 t e4}|guo1 mou3 cheng1 yi3 qian2 jing1 ta1 jie4 shao4 juan1 luan3 de5 hai2 you3 e2 luo2 si1 mo2 te4
+001679|baker|{j in1 ian2 er2 d e5 f u4 ch u1 zh iii1 zh an4 sp1 ie3 s uei2 zh iii1 ian2 ch iii2}|jin1 yan2 er2 de5 fu4 chu1 zhi1 zhan4 ye3 sui2 zhi1 yan2 chi2
+003210|baker|{zh ong1 f ang1 d uei4 ao4 er3 m o4 t e4 z ong2 l i3 d e5 sh ang4 sh u4 b iao3 t ai4 sp1 b iao3 sh iii4 h uan1 ing2}|zhong1 fang1 dui4 ao4 er3 mo4 te4 zong2 li3 de5 shang4 shu4 biao3 tai4 biao3 shi4 huan1 ying2
+009405|baker|{j i3 t ian1 h ou4 sp1 t a1 j iou4 ing2 l ai2 l e5 g eng4 j ia1 h uei1 h uang2 d e5 sh eng4 l i4}|ji3 tian1 hou4 ta1 jiu4 ying2 lai2 le5 geng4 jia1 hui1 huang2 de5 sheng4 li4
+008851|baker|{sh iii4 b u2 sh iii4 j iao1 b u2 sh ang4 f ang2 z u1 sp1 uo3 m en5 j iou4 iao4 u2 j ia1 k e3 g uei1 l e5 zh u3 r en2}|shi4 bu2 shi4 jiao1 bu2 shang4 fang2 zu1 wo3 men5 jiu4 yao4 wu2 jia1 ke3 gui1 le5 zhu3 ren2
+008051|baker|{j ie2 zh iii4 m u4 q ian2 sp1 m ei3 j vn1 sp1 i3 x iang4 i1 an1 q van2 b u4 d uei4 sp1 i2 j iao1 l e5 j iou3 g e4 sh eng3 d e5 f ang2 u4}|jie2 zhi4 mu4 qian2 mei3 jun1 yi3 xiang4 yi1 an1 quan2 bu4 dui4 yi2 jiao1 le5 jiu3 ge4 sheng3 de5 fang2 wu4
+004233|baker|{i2 l u4 sh ang4 sp1 x ia4 v2 sh ao3 ian2 g ua2 v3 sp1 ch u2 l e5 x iang4 s ii4 ch u4 zh ang1 uang4 j i3 x ia4 sp1 b ian4 i4 zh iii2 m ai2 t ou2 x iang4 q ian2}|yi2 lu4 shang4 xia4 yu2 shao3 yan2 gua2 yu3 chu2 le5 xiang4 si4 chu4 zhang1 wang4 ji3 xia4 bian4 yi4 zhi2 mai2 tou2 xiang4 qian2
+006913|baker|{l ao3 r en2 sh uo1 sp1 d ang1 sh iii2 t a1 j ia1 t ing2 t iao2 j ian4 b ing4 b u4 h ao3 sp1 s uei2 zh e5 ve4 zh ang3 ve4 d a4 sp1 m ian2 ao3 b ian4 x iao3 l e5}|lao3 ren2 shuo1 dang1 shi2 ta1 jia1 ting2 tiao2 jian4 bing4 bu4 hao3 sui2 zhe5 yue4 zhang3 yue4 da4 mian2 ao3 bian4 xiao3 le5
+007097|baker|{j in4 r iii4 sp1 n an2 z ii3 i1 sh en3 sp1 b ei4 p an4 ch u2 h uan3 x ing2}|jin4 ri4 nan2 zi3 yi1 shen3 bei4 pan4 chu2 huan3 xing2
+005753|baker|{b en3 sh iii4 u3 d a4 s an1 c u1 d e5 l ao3 ie2 m en5 sp1 q ve4 z uo4 j iao1 d i1 d i1 zh uang4}|ben3 shi4 wu3 da4 san1 cu1 de5 lao3 ye2 men5 que4 zuo4 jiao1 di1 di1 zhuang4
+002852|baker|{j v4 l iao2 j ie3 sp1 van2 iang2 f u2 zh uang1 d ian4 d ian4 zh u3 i4 j ia1 s an1 k ou3 sp1 zh eng4 z ai4 sh eng3 k ang1 f u4 zh ong1 x in1 i1 van4 q iang3 j iou4}|ju4 liao2 jie3 yuan2 yang2 fu2 zhuang1 dian4 dian4 zhu3 yi4 jia1 san1 kou3 zheng4 zai4 sheng3 kang1 fu4 zhong1 xin1 yi1 yuan4 qiang3 jiu4
+001356|baker|{zh iii4 uei2 n iou3 t ou2 i2 k an4 sp1 i2 ch a4 n a4 sp1 h an4 m ao2 d ou1 zh iii2 l e5}|zhi4 wei2 niu3 tou2 yi2 kan4 yi2 cha4 na4 han4 mao2 dou1 zhi2 le5
+008814|baker|{l ing4 j v4 zh eng4 sh iii2 sp1 d e2 h ong2 m ao4 i4 sh iii2 uei2 j ia1 zh ao4 ie4 q i2 x ia4 g ong1 s ii1}|ling4 ju4 zheng4 shi2 de2 hong2 mao4 yi4 shi2 wei2 jia1 zhao4 ye4 qi2 xia4 gong1 si1
+004262|baker|{l ao3 zh an4 iou3 z ai4 uai4 d i4 j v4 h uei4 sp1 t a1 sh uo1 zh an4 iou3 m en5 sp1 zh uan3 ie4 z ao3 sp1 g ong1 z ii1 b u4 g ao1 sp1 t a1 k ang1 k ai2 j ie3 n ang2}|lao3 zhan4 you3 zai4 wai4 di4 ju4 hui4 ta1 shuo1 zhan4 you3 men5 zhuan3 ye4 zao3 gong1 zi1 bu4 gao1 ta1 kang1 kai2 jie3 nang2
+001743|baker|{h uo2 d ong4 iou2 h uang2 l ong2 vn2 zh u3 ch iii2 sp1 uang1 iang2 f a1 b iao3 l e5 r e4 q ing2 iang2 i4 d e5 j iang3 h ua4}|huo2 dong4 you2 huang2 long2 yun2 zhu3 chi2 wang1 yang2 fa1 biao3 le5 re4 qing2 yang2 yi4 de5 jiang3 hua4
+007975|baker|{s an1 j ian1 zh uan1 q i4 d e5 ua3 f ang2 sp1 l i3 m ian4 l a1 j i1 b ian4 d i4 sp1 x ian3 d e5 sh iii2 f en1 ang1 z ang1}|san1 jian1 zhuan1 qi4 de5 wa3 fang2 li3 mian4 la1 ji1 bian4 di4 xian3 de5 shi2 fen1 ang1 zang1
+001638|baker|{zh ang1 uen2 sh iii4 g e5 d ian3 x ing2 d e5 sh ang4 h ai2 d ia3 n an1 n an1 sp1 p i2 q i4 uen1 h e2 sp1 d ong3 sh eng1 h uo2 sp1 ai4 f a1 d ia3}|zhang1 wen2 shi4 ge5 dian3 xing2 de5 shang4 hai2 dia3 nan1 nan1 pi2 qi4 wen1 he2 dong3 sheng1 huo2 ai4 fa1 dia3
+009635|baker|{zh ong1 u3 sh iii2 f en1 sp1 j vn1 d ou1 sh an1 h ua2 x ve2 ch ang3}|zhong1 wu3 shi2 fen1 jun1 dou1 shan1 hua2 xue2 chang3
+008326|baker|{i1 sh iii4 t a1 j ie3 j ve2 l e5 j ing1 ch ang2 x ing4 j van1 z eng4 sp1 c uen2 z ai4 d e5 h en3 d uo1 uen4 t i2}|yi1 shi4 ta1 jie3 jue2 le5 jing1 chang2 xing4 juan1 zeng4 cun2 zai4 de5 hen3 duo1 wen4 ti2
+000876|baker|{iou3 s e4 b an3 k uai4 j i4 x v4 ch eng2 q iang2}|you3 se4 ban3 kuai4 ji4 xu4 cheng2 qiang2
+002662|baker|{g ang1 g uan2 u3 sp1 uo3 h ai2 m ei2 iou3 x ve2 g uo4 n e5}|gang1 guan2 wu3 wo3 hai2 mei2 you3 xue2 guo4 ne5
+006170|baker|{t i3 x ing2 b u2 p ang4 b u2 sh ou4 sp1 j i4 b u4 iao2 t iao3 ie3 b u4 f eng1 m an3}|ti3 xing2 bu2 pang4 bu2 shou4 ji4 bu4 yao2 tiao3 ye3 bu4 feng1 man3
+007034|baker|{t a1 x i3 h uan5 sh ang4 uang3 sp1 r e4 ai4 i2 q ie4 x in1 sh eng1 sh iii4 u4 sp1 h e2 ai3 f eng1 q v4}|ta1 xi3 huan5 shang4 wang3 re4 ai4 yi2 qie4 xin1 sheng1 shi4 wu4 he2 ai3 feng1 qu4
+007541|baker|{sh iii2 j i3 n ian2 sh ou4 h uei4 sh eng1 ia2 zh ong4 x ia4 d e5 e4 in1 sp1 zh ong1 n iang4 ch eng2 j in1 t ian1 d e5 k u2 g uo3}|shi2 ji3 nian2 shou4 hui4 sheng1 ya2 zhong4 xia4 de5 e4 yin1 zhong1 niang4 cheng2 jin1 tian1 de5 ku2 guo3
+002273|baker|{ch en2 x ing4 v2 h uei2 ing4 q iou1 i4 b ao4 l iao4 sp1 t a1 j iang3 d e5 h ua4 j iou4 sh iii4 sh eng4 zh iii3 m a5}|chen2 xing4 yu2 hui2 ying4 qiu1 yi4 bao4 liao4 ta1 jiang3 de5 hua4 jiu4 shi4 sheng4 zhi3 ma5
+004389|baker|{z ong3 zh iii1 h en3 p iao4 l iang5 j iou4 d uei4 l a5}|zong3 zhi1 hen3 piao4 liang5 jiu4 dui4 la5
+000737|baker|{in1 uei4 u2 q ian2 z u1 f ang2 sp1 iang2 van2 van5 sp1 v2 m u3 q in1 i4 zh iii2 t ong2 zh u4 i4 j ian1 q in3 sh iii4}|yin1 wei4 wu2 qian2 zu1 fang2 yang2 yuan2 yuan5 yu2 mu3 qin1 yi4 zhi2 tong2 zhu4 yi4 jian1 qin3 shi4
+000137|baker|{er2 zh ang1 m ao2 r iii4 q ian2 ie3 x van1 b u4 sp1 v3 uai4 j i2 n an2 iou3 d ing4 h uen1}|er2 zhang1 mao2 ri4 qian2 ye3 xuan1 bu4 yu3 wai4 ji2 nan2 you3 ding4 hun1
+006124|baker|{h a1 l i3 uang2 z ii3 k e3 n eng2 iao4 uei4 z ii4 j i3 d e5 i2 ie4 h uang1 t ang2 f u4 ch u1 d ai4 j ia4}|ha1 li3 wang2 zi3 ke3 neng2 yao4 wei4 zi4 ji3 de5 yi2 ye4 huang1 tang2 fu4 chu1 dai4 jia4
+000619|baker|{z ai4 l u4 p ang2 g a1 l a2 ch u4 sp1 p i2 t e4 t uo1 x ia4 uai4 t ao4 sp1 q ie4 i4 ch ou1 zh e5 x iang1 ian1}|zai4 lu4 pang2 ga1 la2 chu4 pi2 te4 tuo1 xia4 wai4 tao4 qie4 yi4 chou1 zhe5 xiang1 yan1
+009639|baker|{t a1 h ua1 q i3 q ian2 l ai2 d a4 sh ou3 d a4 j iao3 sp1 n ei4 x in1 i4 ch ang2 l eng3 k u4}|ta1 hua1 qi3 qian2 lai2 da4 shou3 da4 jiao3 nei4 xin1 yi4 chang2 leng3 ku4
+009307|baker|{t a1 m ei2 x ia4 ch e1 sp1 iou4 k an4 j ian4 uai4 g uo2 r en2 ch ao2 l u4 r en2 r ang1 r ang5}|ta1 mei2 xia4 che1 you4 kan4 jian4 wai4 guo2 ren2 chao2 lu4 ren2 rang1 rang5
+008254|baker|{i4 b ai3 g e5 x iao4 h ua5 sp1 uo2 j iang3 uan2 h uei4 b u2 h uei4 x i4 t ong3 b eng1 k uei4 ia5}|yi4 bai3 ge5 xiao4 hua5 wo2 jiang3 wan2 hui4 bu2 hui4 xi4 tong3 beng1 kui4 ya5
+000573|baker|{j ia1 q iang2 e4 ch ou4 u1 r an3 u4 zh iii4 l i3}|jia1 qiang2 e4 chou4 wu1 ran3 wu4 zhi4 li3
+005520|baker|{i3 h ou4 h uei4 iang3 d e5 sp1 uo3 zh eng4 z ai4 ian2 x iou1 ch ong3 u4 zh ao4 g u4 j i4 n eng2}|yi3 hou4 hui4 yang3 de5 wo3 zheng4 zai4 yan2 xiu1 chong3 wu4 zhao4 gu4 ji4 neng2
+002579|baker|{q iou1 g ao1 q i4 sh uang3 sp1 d eng1 g ao1 van3 t iao4 zh eng4 d ang1 sh iii2}|qiu1 gao1 qi4 shuang3 deng1 gao1 yuan3 tiao4 zheng4 dang1 shi2
+006910|baker|{l ong2 x ia1 d e5 van2 z uei4 ie3 b ei4 j ie1 l u4 l e5 ch u1 l ai2}|long2 xia1 de5 yuan2 zui4 ye3 bei4 jie1 lu4 le5 chu1 lai2
+003342|baker|{p ing2 r ang3 m in2 s u2 g ong1 van2 q van2 j ing3}|ping2 rang3 min2 su2 gong1 yuan2 quan2 jing3
+006350|baker|{uo3 m en5 x ian1 c ong2 n ar4 k ai1 sh iii3 m ie4}|wo3 men5 xian1 cong2 nar4 kai1 shi3 mie4
+007370|baker|{z ai4 x v2 j iong2 uei3 k an4 l ai2 sp1 sh ang1 ie4 m o2 sh iii4 j ve2 d ing4 l e5 h ua2 i4 h e2 g uang1 x ian4 b u4 t ong2 d e5 r ong2 z ii1 t e4 d ian3}|zai4 xu2 jiong2 wei3 kan4 lai2 shang1 ye4 mo2 shi4 jue2 ding4 le5 hua2 yi4 he2 guang1 xian4 bu4 tong2 de5 rong2 zi1 te4 dian3
+002151|baker|{g en1 p eng2 iou5 z uo4 d ian2 i3 q ian2 m ei2 iou3 z uo4 g uo4 d e5 sh iii4 q ing2 sp1 h uei4 r ang4 h ao3 vn4 ian2 x v4 o5}|gen1 peng2 you5 zuo4 dian2 yi3 qian2 mei2 you3 zuo4 guo4 de5 shi4 qing2 hui4 rang4 hao3 yun4 yan2 xu4 o5
+005611|baker|{er3 d ong1 sh eng1 zh e4 c ii4 iou3 i4 d uo2 q i3 l ai2 sp1 b u2 van4 q iang3 q v4 d ao2 ian3 d e5 f eng1 t ou5}|er3 dong1 sheng1 zhe4 ci4 you3 yi4 duo2 qi3 lai2 bu2 yuan4 qiang3 qu4 dao2 yan3 de5 feng1 tou5
+005958|baker|{r u2 j in1 q ing2 k uang4 sp1 i3 f a1 sh eng1 n iou2 zh uan3}|ru2 jin1 qing2 kuang4 yi3 fa1 sheng1 niu2 zhuan3
+008989|baker|{h ai3 g uan1 z ong2 sh u3 j i1 j i2 t uo4 zh an3 h e2 iou1 h ua4 j ia1 g ong1 m ao4 i4 d e5 ch an3 ie4 j ie2 g ou4 t iao2 zh eng3 d eng2 d eng3}|hai3 guan1 zong2 shu3 ji1 ji2 tuo4 zhan3 he2 you1 hua4 jia1 gong1 mao4 yi4 de5 chan3 ye4 jie2 gou4 tiao2 zheng3 deng2 deng3
+007691|baker|{m o4 n i2 l e4 sh eng1 d e5 x iao1 s a3 ing1 j vn4 sp1 ch eng2 l e5 n a4 x ie1 f ei1 z ii5 l ie4 q v3 d e5 d uei4 x iang4}|mo4 ni2 le4 sheng1 de5 xiao1 sa3 ying1 jun4 cheng2 le5 na4 xie1 fei1 zi5 lie4 qu3 de5 dui4 xiang4
+007028|baker|{j iou3 s an1 s an1 l u4 g ong1 j iao1 ch e1 sp1 ie3 h uei1 f u4 l e5 zh eng4 ch ang2 ing2 vn4}|jiu3 san1 san1 lu4 gong1 jiao1 che1 ye3 hui1 fu4 le5 zheng4 chang2 ying2 yun4
+000073|baker|{b u4 l v3 n i2 sp1 ie2 v3 q ian2 f u1 zh e2 x ve2 j ia1 sp1 l a1 f ei2 er3 v4 iou3 i4 z ii3}|bu4 lv3 ni2 ye2 yu3 qian2 fu1 zhe2 xue2 jia1 la1 fei2 er3 yu4 you3 yi4 zi3
+002384|baker|{iou2 v2 er2 z ii5 j ie2 h uen1 x v1 iao4 sp1 ch en2 l ei3 f u4 m u3 sp1 d ang1 sh iii2 ie3 zh eng4 x iang2 m ai3 f ang2}|you2 yu2 er2 zi5 jie2 hun1 xu1 yao4 chen2 lei3 fu4 mu3 dang1 shi2 ye3 zheng4 xiang2 mai3 fang2
+000281|baker|{ch u1 q v4 h ou4 x iang3 d ao4 uai4 m ian4 q v4 ch uang3 i4 ch uang3}|chu1 qu4 hou4 xiang3 dao4 wai4 mian4 qu4 chuang3 yi4 chuang3
+008345|baker|{uo3 iao4 x ve2 x i2 i2 x ia4 x iang1 g uan1 zh iii1 sh iii5}|wo3 yao4 xue2 xi2 yi2 xia4 xiang1 guan1 zhi1 shi5
+001542|baker|{m ei3 c ii4 g ei2 uo3 m a1 s ii3 t uo1 h uo2 zh uai4 d e5 sp1 l a1 j in4 n v2 z ao3 t ang2 x i2 z ao3}|mei3 ci4 gei2 wo3 ma1 si3 tuo1 huo2 zhuai4 de5 la1 jin4 nv2 zao3 tang2 xi2 zao3
+004917|baker|{b u2 g uo4 iou3 sh iii2 x v2 z ii3 q i2 ie3 h uei4 ch iii1 d ao4 m en4 sp1 g u4 h uei4 zh uan3 ch iii1 j iang1 ch ao3 f an4}|bu2 guo4 you3 shi2 xu2 zi3 qi2 ye3 hui4 chi1 dao4 men4 gu4 hui4 zhuan3 chi1 jiang1 chao3 fan4
+006703|baker|{t ong2 sh iii2 sp1 g uang3 x i1 q iao2 b an4 h ai2 x iang4 t a1 m en5 s ong4 sh ang4 uei4 uen4 j in1}|tong2 shi2 guang3 xi1 qiao2 ban4 hai2 xiang4 ta1 men5 song4 shang4 wei4 wen4 jin1
+005777|baker|{l ing4 uai4 sp1 uo2 ie3 r en4 sh iii5 i4 x ie1 c an1 j ia1 g uo4 ao4 vn4 h uei4 d e5 t ong2 x ve2}|ling4 wai4 wo2 ye3 ren4 shi5 yi4 xie1 can1 jia1 guo4 ao4 yun4 hui4 de5 tong2 xue2
+006514|baker|{d an4 t a1 sh ang1 k ou3 d e5 t eng2 t ong4 i1 j iou4 sp1 b u4 sh iii2 f a1 ch u1 h eng1 h eng5 sh eng1}|dan4 ta1 shang1 kou3 de5 teng2 tong4 yi1 jiu4 bu4 shi2 fa1 chu1 heng1 heng5 sheng1
+003702|baker|{ch ao1 sh iii4 b u4 ch eng2 d an1 l in2 q i1 sh iii2 p in2 s uen3 sh iii1 sp1 m ei2 b i4 iao4 c uan4 g ai3 sh eng1 ch an3 r iii4 q i1}|chao1 shi4 bu4 cheng2 dan1 lin2 qi1 shi2 pin2 sun3 shi1 mei2 bi4 yao4 cuan4 gai3 sheng1 chan3 ri4 qi1
+005369|baker|{v2 sh iii4 sp1 i4 ch ang3 b o2 i4 sp1 z ai4 l iou2 q i2 ian3 v3 p eng2 g ai2 zh iii3 h uei1 b u4 zh iii1 j ian1 zh an3 k ai1}|yu2 shi4 yi4 chang3 bo2 yi4 zai4 liu2 qi2 yan3 yu3 peng2 gai2 zhi3 hui1 bu4 zhi1 jian1 zhan3 kai1
+007999|baker|{k e3 sh iii4 sp1 uo3 x ian4 ch ang3 iao1 q iou2 j ing3 ch a2 h uei2 b i4 sp1 t a1 b u4 k en2 z ou3}|ke3 shi4 wo3 xian4 chang3 yao1 qiu2 jing3 cha2 hui2 bi4 ta1 bu4 ken2 zou3
+002461|baker|{j iou4 van2 d uei4 sp1 zh eng4 z ai4 j ia1 k uai4 an1 zh uang1 g u4 d ing4 b eng4 sp1 t ong1 g uo4 ch ou1 sh uei2 uen3 d ing4 sh uei3 uei4}|jiu4 yuan2 dui4 zheng4 zai4 jia1 kuai4 an1 zhuang1 gu4 ding4 beng4 tong1 guo4 chou1 shui2 wen3 ding4 shui3 wei4
+003311|baker|{z ai4 f an3 h uei2 t u2 zh ong1 z ao1 v4 f eng1 x ve3 sp1 d a4 f eng1 j van3 zh e5 x ve3 h ua1 sp1 n eng2 j ian4 d u4 h en3 ch a4}|zai4 fan3 hui2 tu2 zhong1 zao1 yu4 feng1 xue3 da4 feng1 juan3 zhe5 xue3 hua1 neng2 jian4 du4 hen3 cha4
+002936|baker|{r en2 b u2 uei4 j i3 t ian1 b eng1 d i4 l ie4}|ren2 bu2 wei4 ji3 tian1 beng1 di4 lie4
+000356|baker|{z ang4 j v4 uei2 i4 g uan1 i4 g uo3 sp1 x i4 iong4 ch ang2 f ang1 x ing2 m u4 b an3 sp1 i3 s uen2 m ao3 j ie2 g ou4 sp1 d ie2 q i4 er2 ch eng2}|zang4 ju4 wei2 yi4 guan1 yi4 guo3 xi4 yong4 chang2 fang1 xing2 mu4 ban3 yi3 sun2 mao3 jie2 gou4 die2 qi4 er2 cheng2
+006215|baker|{m u4 q ian2 sp1 t a1 d an1 r en4 b ei3 sh iii1 d a4 l uen4 t an2 d an4 d an5 uang3 h uo3 ch e1 p iao4 b an3 d e5 b an2 zh u3}|mu4 qian2 ta1 dan1 ren4 bei3 shi1 da4 lun4 tan2 dan4 dan5 wang3 huo3 che1 piao4 ban3 de5 ban2 zhu3
+008564|baker|{n eng2 iou3 d a2 an4 j iou4 b u2 sh iii4 r en2 sh eng1 b a5}|neng2 you3 da2 an4 jiu4 bu2 shi4 ren2 sheng1 ba5
+002900|baker|{zh e4 sh iii4 p eng4 d ao4 t uan1 l iou2 l e5}|zhe4 shi4 peng4 dao4 tuan1 liu2 le5
+000239|baker|{h en3 k uai4 j iou4 iou3 r en2 h uei2 t ie3 an1 uei4 uang2 m iao3}|hen3 kuai4 jiu4 you3 ren2 hui2 tie3 an1 wei4 wang2 miao3
+006551|baker|{h an2 l ian2 m ing2 m ei2 iou2 x iang3 d ao4 sp1 zh ang1 b o2 h u3 c ong2 c ii3 ch eng2 l e5 t a1 z ai4 ao2 van2 h ong1 d ou1 h ong1 b u4 z ou3 d e5 k an4 k e4}|han2 lian2 ming2 mei2 you2 xiang3 dao4 zhang1 bo2 hu3 cong2 ci3 cheng2 le5 ta1 zai4 ao2 yuan2 hong1 dou1 hong1 bu4 zou3 de5 kan4 ke4
+007332|baker|{z ai4 g uo2 b an3 d e5 l iang3 b ian1 sp1 iou3 i4 x ie1 ao1 c ao2 sp1 iong4 i2 q ia3 zh u4 j i3 k uai4 g uo2 b an3 sp1 i3 b ian4 v2 l ian2 j ie1}|zai4 guo2 ban3 de5 liang3 bian1 you3 yi4 xie1 ao1 cao2 yong4 yi2 qia3 zhu4 ji3 kuai4 guo2 ban3 yi3 bian4 yu2 lian2 jie1
+005259|baker|{r u2 g uo3 iong4 g ai4 z ii5 h uo4 zh e3 d a4 t ong3 sp1 x ve2 sh eng1 sp1 b u2 sh iii4 n ing3 b u4 k ai1 sp1 j iou4 sh iii4 r ong2 i4 f a1 sh eng1 i4 uai4}|ru2 guo3 yong4 gai4 zi5 huo4 zhe3 da4 tong3 xue2 sheng1 bu2 shi4 ning3 bu4 kai1 jiu4 shi4 rong2 yi4 fa1 sheng1 yi4 wai4
+006742|baker|{r an2 er2 zh e4 ch ang3 uan4 zh ong4 zh u3 m u4 d e5 i4 k ao3 sp1 ie3 b u2 sh iii4 ch uen2 c uei4 d e5 v2 l e4 h e2 sh ang2 ian3}|ran2 er2 zhe4 chang3 wan4 zhong4 zhu3 mu4 de5 yi4 kao3 ye3 bu2 shi4 chun2 cui4 de5 yu2 le4 he2 shang2 yan3
+007903|baker|{v2 sh iii4 sp1 uo3 zh iii2 iou3 d uo1 d uo1 s a1 j iao1 l uo5 sp1 q ing1 sh eng1 j iao4 h uan5 r e3 t a1 k ai1 x in1}|yu2 shi4 wo3 zhi2 you3 duo1 duo1 sa1 jiao1 luo5 qing1 sheng1 jiao4 huan5 re3 ta1 kai1 xin1
+007613|baker|{iao4 g ong3 g u4 uan2 sh an4 j i1 c eng2 z ong1 h e2 g ai3 g e2}|yao4 gong3 gu4 wan2 shan4 ji1 ceng2 zong1 he2 gai3 ge2
+008809|baker|{t a1 sh uo1 sp1 uo3 j ve2 d e5 n in2 z en3 m e5 k an4 z en3 m e5 x iang4 uo3 s an1 d a4 ie5 sp1 k ao3 g uan1 h uen1 s ii3}|ta1 shuo1 wo3 jue2 de5 nin2 zen3 me5 kan4 zen3 me5 xiang4 wo3 san1 da4 ye5 kao3 guan1 hun1 si3
+008535|baker|{u1 ia1 sh uo1 sp1 uo3 zh en1 b u2 x ing4 sp1 d an4 sh iii2 j i4 sh ang4 t a1 sh iii4 in1 uei4 vn4 q i5 m a5}|wu1 ya1 shuo1 wo3 zhen1 bu2 xing4 dan4 shi2 ji4 shang4 ta1 shi4 yin1 wei4 yun4 qi5 ma5
+004635|baker|{l i3 m eng2 f eng1 z ii1 x iou4 i4 sp1 p o1 j v4 d ong1 f ang1 n v3 x ing4 d e5 m ei4 l i4}|li3 meng2 feng1 zi1 xiu4 yi4 po1 ju4 dong1 fang1 nv3 xing4 de5 mei4 li4
+007494|baker|{i1 z e2 k e2 i3 zh ao4 g u5 u2 er2 u2 n v3 d e5 l ao3 r en2 sp1 er4 z e2 k e3 z eng1 j ia1 sh ou1 r u4}|yi1 ze2 ke2 yi3 zhao4 gu5 wu2 er2 wu2 nv3 de5 lao3 ren2 er4 ze2 ke3 zeng1 jia1 shou1 ru4
+006629|baker|{g uo1 j in4 an1 v3 t ai4 t ai5 d ou1 b iao3 sh iii4 h en2 m an3 z u2 sp1 j i4 h ua4 sp1 b u2 z ai4 iao4 h ai2 z ii5}|guo1 jin4 an1 yu3 tai4 tai5 dou1 biao3 shi4 hen2 man3 zu2 ji4 hua4 bu2 zai4 yao4 hai2 zi5
+004045|baker|{zh e4 b i3 q ian2 d uei4 uo3 er2 ian2 t ai4 zh ong4 iao4 l e5 sp1 n eng2 b a2 uo3 j ia1 d e5 zh ai4 g ei3 h uan2 l e5 ia5}|zhe4 bi3 qian2 dui4 wo3 er2 yan2 tai4 zhong4 yao4 le5 neng2 ba2 wo3 jia1 de5 zhai4 gei3 huan2 le5 ya5
+003266|baker|{h uo4 van2 ch ong1 z u2 sp1 d ou1 h ai2 iou3}|huo4 yuan2 chong1 zu2 dou1 hai2 you3
+006187|baker|{c ii3 sh iii2 sp1 x iao1 f ang2 r en2 van2 i3 j ing5 b a2 h uo3 p u1 m ie4 l i2 k ai1}|ci3 shi2 xiao1 fang2 ren2 yuan2 yi3 jing5 ba2 huo3 pu1 mie4 li2 kai1
+008882|baker|{d an4 sh iii4 sp1 sh eng4 d a4 uang3 l uo4 d e5 j ing4 l i4 r uen4 sp1 z ai4 d i4 er4 j i4 d u4 q ve4 b ao4 d ie1}|dan4 shi4 sheng4 da4 wang3 luo4 de5 jing4 li4 run4 zai4 di4 er4 ji4 du4 que4 bao4 die1
+000835|baker|{zh ou1 ian2 d i4 er4 h u2 zh iii2 j ie1 l iou1 d iao4}|zhou1 yan2 di4 er4 hu2 zhi2 jie1 liu1 diao4
+007578|baker|{l ao3 p o2 sh en1 q ing2 d e5 k ao4 z ai4 l ao3 g ong1 sh en1 sh ang4 sh uo1 sp1 uo2 x iang3 iao4 uen1 n uan3}|lao3 po2 shen1 qing2 de5 kao4 zai4 lao3 gong1 shen1 shang4 shuo1 wo2 xiang3 yao4 wen1 nuan3
+008969|baker|{zh iii3 d ing4 d e5 r iii4 q i1 d ao4 l e5 sp1 s uo2 iou3 d e5 n iao3 d ou1 i4 q i2 l ai2 d ao4 zh ou4 s ii1 m ian4 q ian2}|zhi3 ding4 de5 ri4 qi1 dao4 le5 suo2 you3 de5 niao3 dou1 yi4 qi2 lai2 dao4 zhou4 si1 mian4 qian2
+003983|baker|{uei2 iou3 sh iii4 j ie4 v3 l ian2 sp1 i2 f u4 sp1 l in3 r an2 zh eng4 q i4 d e5 iang4 z ii5 sp1 zh e4 h en3 x v1 uei3 sp1 h e2 b u2 f u4 z e2 r en4}|wei2 you3 shi4 jie4 yu3 lian2 yi2 fu4 lin3 ran2 zheng4 qi4 de5 yang4 zi5 zhe4 hen3 xu1 wei3 he2 bu2 fu4 ze2 ren4
+007200|baker|{l ing2 sh ou4 h ang2 ie4 d e5 g uai2 d ian3 sp1 i3 j ing1 l in2 j in4}|ling2 shou4 hang2 ye4 de5 guai2 dian3 yi3 jing1 lin2 jin4
+004051|baker|{iou4 d ao4 i4 n ian2 ve4 van2 sh iii2 sp1 j in1 t ian1 sp1 t a1 m en5 i1 r an2 m ei2 n eng2 h uei2 j ia1 h e2 l ao3 r en2 t uan2 van2}|you4 dao4 yi4 nian2 yue4 yuan2 shi2 jin1 tian1 ta1 men5 yi1 ran2 mei2 neng2 hui2 jia1 he2 lao3 ren2 tuan2 yuan2
+002011|baker|{i4 x ie1 in2 h ang2 h ai2 ch u1 l e5 uai1 zh ao1}|yi4 xie1 yin2 hang2 hai2 chu1 le5 wai1 zhao1
+000653|baker|{c ii3 uai4 sp1 x i1 ao4 d e5 l iang3 j ia2 iou3 l eng2 iou2 j iao3 sp1 er2 f an2 g ao1 d e5 s ai1 b ang1 b i3 j iao4 van2}|ci3 wai4 xi1 ao4 de5 liang3 jia2 you3 leng2 you2 jiao3 er2 fan2 gao1 de5 sai1 bang1 bi3 jiao4 yuan2
+009049|baker|{sh eng1 h ai2 z ii5 ie2 h en3 l ei4 a5 sp1 b u2 iao4 z ai4 i4 sh iii4 sh ei2 d e5 l e5 sp1 h ao3 m a5}|sheng1 hai2 zi5 ye2 hen3 lei4 a5 bu2 yao4 zai4 yi4 shi4 shei2 de5 le5 hao3 ma5
+003481|baker|{z ai4 d e2 d ao4 iao2 c uen2 l in2 l ao3 r en2 d e5 t ong2 i4 h ou4 sp1 ou1 iang2 zh ao4 t ang2 zh ang1 l uo5 k ai1 l ai2}|zai4 de2 dao4 yao2 cun2 lin2 lao3 ren2 de5 tong2 yi4 hou4 ou1 yang2 zhao4 tang2 zhang1 luo5 kai1 lai2
+000552|baker|{uang3 r iii4 p i1 s an3 d e5 t ou2 f a5 sp1 ie3 sh u1 uan3 ch eng2 j i4 sp1 k an4 sh ang4 q v4 b ie2 iou3 vn4 uei4}|wang3 ri4 pi1 san3 de5 tou2 fa5 ye3 shu1 wan3 cheng2 ji4 kan4 shang4 qu4 bie2 you3 yun4 wei4
+004289|baker|{zh e4 b ei4 h ou4 q ian1 ch u1 g e2 v3 sh eng4 d a4 zh iii1 j ian1 d e5 j iou1 g e2 i2 an4}|zhe4 bei4 hou4 qian1 chu1 ge2 yu3 sheng4 da4 zhi1 jian1 de5 jiu1 ge2 yi2 an4
+005244|baker|{ian2 c ii2 zh ong1 sp1 j ie2 k e4 x vn4 sp1 b u4 sh iii2 b ao4 ch u1 c u1 k ou3}|yan2 ci2 zhong1 jie2 ke4 xun4 bu4 shi2 bao4 chu1 cu1 kou3
+000410|baker|{iang2 g ong1 h uan4 sp1 j iang1 uei4 uo3 g uo2 k ong4 zh iii4 b u2 l i4 d e5 g en1 b en3 van2 in1 sp1 g uei1 j ie2 v2 ian1 c ao3 ie4 d e5 z u3 n ao2}|yang2 gong1 huan4 jiang1 wei4 wo3 guo2 kong4 zhi4 bu2 li4 de5 gen1 ben3 yuan2 yin1 gui1 jie2 yu2 yan1 cao3 ye4 de5 zu3 nao2
+002407|baker|{t a1 zh en1 d e5 g en1 r uei4 d ian3 g u1 n iang5 j ie2 h uen1 l e5}|ta1 zhen1 de5 gen1 rui4 dian3 gu1 niang5 jie2 hun1 le5
+007092|baker|{iong4 sh en2 m e5 h ua4 l ai2 z an4 m ei3 zh ei4 zh ang1 t u2 d ou1 sh iii4 c ang1 b ai2 d e5}|yong4 shen2 me5 hua4 lai2 zan4 mei3 zhei4 zhang1 tu2 dou1 shi4 cang1 bai2 de5
+005170|baker|{g ai1 ch e1 u2 x ian4 l u4 p ai2 sp1 x i4 f ei1 f a3 vn4 ing2 ch e1 l iang4}|gai1 che1 wu2 xian4 lu4 pai2 xi4 fei1 fa3 yun4 ying2 che1 liang4
+003700|baker|{l iou4 s uei4 d e5 x iao3 zh uang4 zh uang5 sp1 u2 i2 sh iii4 t a1 uen1 q ing2 m u3 ai4 d e5 j i4 t uo1}|liu4 sui4 de5 xiao3 zhuang4 zhuang5 wu2 yi2 shi4 ta1 wen1 qing2 mu3 ai4 de5 ji4 tuo1

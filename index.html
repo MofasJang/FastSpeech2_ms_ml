@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>FastSpeech 2 效果演示</title>
+  <style>
+    body {
+      margin: 0% 15%;
+      padding: 50px 30px;
+      background: #fff;
+      color: #111;
+      font-size: 17px;
+      font-family: sans-serif;
+      font-weight: 400;
+      line-height: 1.8;
+      overflow-x: hidden;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    h1 {
+      font-size: 1.75em;
+    }
+
+    h2 {
+      margin-bottom: 0.4em;
+    }
+
+    hr {
+      height: 0.5px;
+      border-width: 0;
+      color: lightgray;
+      background-color: lightgray
+    }
+
+    table {
+      width: 100%;
+    }
+
+    audio {
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>FastSpeech 2 语音合成演示</h1>
+  <hr>
+  <p>
+  <h2>英语单说话人TTS</h2>
+  <div>
+    <b>Dataset</b>: <a href="https://keithito.com/LJ-Speech-Dataset/">LJSpeech</a>
+  </div>
+  <div>
+    <b>Checkpoint</b>: <a
+      href="http://mirror.panjiangtao.cn/model/160000.pth.tar">link(160000 steps)</a>
+  </div>
+  <div>
+    <b>Config</b>: <a href="https://github.com/ming024/FastSpeech2/tree/master/config/LJSpeech">link</a>
+  </div>
+  <div>
+    <b>Vocoder</b>: <a href="https://github.com/jik876/hifi-gan">HiFi-GAN (LJSpeech)</a>
+  </div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">LJ042-0094 (原音频) </th>
+      <th style="text-align: center">LJ042-0094 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ042-0094_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ042-0094_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Text</b>: <em>the soviet authorities denied oswald permission</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">LJ021-0108 (原音频) </th>
+      <th style="text-align: center">LJ021-0108 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ021-0108_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ021-0108_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Text</b>: <em>from the standpoint of the good of the industries themselves, as well as the general public
+      interest,</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">LJ030-0031 (原音频) </th>
+      <th style="text-align: center">LJ030-0031 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ030-0031_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ030-0031_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Text</b>: <em>secret service agents formed a cordon to keep the press and photographers from impeding their
+      passage and scanned the
+      crowd for threatening movements.</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">LJ001-0012 (原音频) </th>
+      <th style="text-align: center">LJ001-0012 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ001-0012_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ001-0012_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Text</b>: <em>especially as no more time is occupied, or cost incurred, in casting, setting, or printing
+      beautiful letters</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">LJ011-0202 (原音频) </th>
+      <th style="text-align: center">LJ011-0202 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ011-0202_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ011-0202_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Text</b>: <em>the uncle claimed her. the husband resisted.</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">LJ006-0114 (原音频) </th>
+      <th style="text-align: center">LJ006-0114 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ006-0114_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ006-0114_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Text</b>: <em>they bought their offices from one another, and were thus considered to have a vested interest
+      in them.</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">LJ009-0038 (原音频) </th>
+      <th style="text-align: center">LJ009-0038 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ009-0038_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ009-0038_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Text</b>: <em>in the center of the chapel was the condemned pew, a large dock-like erection painted
+      black.</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">LJ006-0161 (原音频) </th>
+      <th style="text-align: center">LJ006-0161 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ006-0161_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ006-0161_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Text</b>: <em>again, a turnkey deposed that his chief did not enter the wards more than once a fortnight.</em>
+  </div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">LJ027-0127 (原音频) </th>
+      <th style="text-align: center">LJ027-0127 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ027-0127_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ027-0127_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Text</b>: <em>while neglecting to maintain his unity of ideal in the case of nearly all the numerous species
+      of snakes, he should have
+      added a tiny rudiment in the case of the python</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">LJ050-0158 (原音频) </th>
+      <th style="text-align: center">LJ050-0158 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ050-0158_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/LJSpeech/LJ050-0158_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Text</b>: <em>the department hopes to design a practical system which will fully meet the needs of the
+      protective research section of
+      the secret service.</em></div>
+
+  </p>
+
+  <hr>
+
+  <p>
+  <h2>普通话多说话人TTS</h2>
+  <div>
+    <b>Dataset</b>: <a href="http://www.aishelltech.com/aishell_3">AISHELL-3</a>
+  </div>
+  <div>
+    <b>Checkpoint</b>: <a
+      href="http://mirror.panjiangtao.cn/model/1200000.pth.tar">link(1200000 steps)</a>
+  </div>
+  <div>
+    <b>Config</b>: <a href="https://github.com/ming024/FastSpeech2/tree/master/config/AISHELL3">link</a>
+  </div>
+  <div>
+    <b>Vocoder</b>: <a href="https://github.com/jik876/hifi-gan">HiFi-GAN (universal)</a>
+  </div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">SSB08630110 (原音频) </th>
+      <th style="text-align: center">SSB08630110 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB08630110_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB08630110_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Speaker</b>: <em>SSB0863</em></div>
+  <div><b>Text</b>: <em>放首歌来听，丁当的歌 (fang4 shou3 ge1 lai2 ting1 sp ding1 dang1 de5 ge1)</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">SSB07940279 (原音频) </th>
+      <th style="text-align: center">SSB07940279 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB07940279_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB07940279_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Speaker</b>: <em>SSB0794</em></div>
+  <div><b>Text</b>: <em>中国，今日有望创下历史单，日，出行人次最高 (zhong1 guo2 sp jin1 ri4 you3 wang4 chuang4 xia4 li4 shi3 dan1 sp ri4 sp
+      chu1 xing2 ren2 ci4 zui4 gao1)</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">SSB00800003 (原音频) </th>
+      <th style="text-align: center">SSB00800003 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB00800003_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB00800003_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Speaker</b>: <em>SSB0080</em></div>
+  <div><b>Text</b>: <em>中新网七月十四日电 (zhong1 xin1 wang3 qi1 yue4 shi2 si4 ri4 dian4)</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">SSB15930399 (原音频) </th>
+      <th style="text-align: center">SSB15930399 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB15930399_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB15930399_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Speaker</b>: <em>SSB1593</em></div>
+  <div><b>Text</b>: <em>也就是说汤米踩过点 (ye3 jiu4 shi4 shuo1 tang1 mi3 cai3 guo4 dian3)</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">SSB16070080 (原音频) </th>
+      <th style="text-align: center">SSB16070080 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB16070080_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB16070080_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Speaker</b>: <em>SSB1607</em></div>
+  <div><b>Text</b>: <em>但阵营之间差距拉大 (dan4 zhen4 ying2 zhi1 jian1 cha1 ju4 la1 da4)</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">SSB10200388 (原音频) </th>
+      <th style="text-align: center">SSB10200388 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB10200388_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB10200388_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Speaker</b>: <em>SSB1020</em></div>
+  <div><b>Text</b>: <em>我抱着一大堆纸箱回了家 (wo3 bao4 zhe5 yi2 da4 dui1 zhi3 xiang1 hui2 le5 jia1)</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">SSB05900363 (原音频) </th>
+      <th style="text-align: center">SSB05900363 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB05900363_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB05900363_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Speaker</b>: <em>SSB0590</em></div>
+  <div><b>Text</b>: <em>我们不能分头行动 (wo3 men2 bu4 neng2 fen1 tou2 xing2 dong4)</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">SSB04700028 (原音频) </th>
+      <th style="text-align: center">SSB04700028 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB04700028_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB04700028_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Speaker</b>: <em>SSB0470</em></div>
+  <div><b>Text</b>: <em>毕节市的景点有什么 (bi4 jie2 shi4 de5 jing2 dian2 you3 shen2 me5)</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">SSB06290079 (原音频) </th>
+      <th style="text-align: center">SSB06290079 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB06290079_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB06290079_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Speaker</b>: <em>SSB0629</em></div>
+  <div><b>Text</b>: <em>你以为 (ni2 yi3 wei2)</em></div>
+
+  <hr>
+
+  <table>
+    <tr>
+      <th style="text-align: center">SSB08220199 (原音频) </th>
+      <th style="text-align: center">SSB08220199 (合成音频) </th>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB08220199_ground-truth.wav" autoplay />
+        </audio></td>
+      <td style="text-align: center"><audio controls="controls">
+          <source src="./demo/AISHELL3/SSB08220199_synthesized.wav" autoplay />
+        </audio></td>
+    </tr>
+  </table>
+  <div><b>Speaker</b>: <em>SSB0822</em></div>
+  <div><b>Text</b>: <em>该职位员工可以，居住在西雅，图或，洛，杉矶 (gai1 zhi2 wei4 yuan2 gong1 ke2 yi3 sp ju1 zhu4 zai4 xi1 ya3 sp tu2 huo4
+      sp luo4 sp shan3 ji1)</em></div>
+
+  </p>
